@@ -2271,7 +2271,7 @@
   },
   {
     "name": "(G)I-DLE - Queencard",
-    "modelMotionFile": "https://carlutic.github.io/motions13/songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_queencard/main.vmd",
+    "modelMotionFile": "https://carlutic.github.io/motions18/queencard/Queencard.vmd",
     "camMotionFile": "https://carlutic.github.io/motions18/queencard/SMOOTH%20Camera.vmd",
     "audioPlayerFile": "https://carlutic.github.io/motions18/queencard/audio.mp3"
   }
