@@ -2268,5 +2268,11 @@
     "modelMotionFile": "creators/diamonds_motion_by/diamonds_motion_by_/main.vmd",
     "camMotionFile": "creators/diamonds_motion_by/diamonds_motion_by_/camera.vmd",
     "audioPlayerFile": "https://carlutic.github.io/motions19/audio/45fe7134718cae15ee99834cf3a56e004a1d0cf1.mp3"
+  },
+  {
+    "name": "(G)I-DLE - Queencard",
+    "modelMotionFile": "https://carlutic.github.io/motions13/songs/03_a_motion_pack_natsumisan_no_tracks_g_/_g_i_dle_queencard/main.vmd",
+    "camMotionFile": "https://carlutic.github.io/motions18/queencard/SMOOTH%20Camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions18/queencard/audio.mp3"
   }
 ]
