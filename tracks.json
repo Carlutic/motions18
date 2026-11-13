@@ -1,0 +1,2272 @@
+[
+  {
+    "name": "[MMD] IU - Eight by 100Csilla (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/100csilla_iu_eight_by_100csilla_mmd_iu_e/_mmd_iu_eight_by_100cs/main.vmd",
+    "partnerMotionFile": "creators/100csilla_iu_eight_by_100csilla_mmd_iu_e/_mmd_iu_eight_by_100cs/partner.vmd",
+    "camMotionFile": "creators/100csilla_iu_eight_by_100csilla_mmd_iu_e/_mmd_iu_eight_by_100cs/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/feee119f00f6e90ef742acd3879987b3784e9211.mp3"
+  },
+  {
+    "name": "KDA - POPSRARS KDA-SOLO by 2TIGers - pop starE",
+    "group": "Creators",
+    "modelMotionFile": "creators/2tigers_kda_popsrars_kda_solo_by_2tigers/kda_popsrars_kda_solo_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/52c53e2365a0b0696c7e6b6a5eae9f59f4428036.mp3"
+  },
+  {
+    "name": "Apple Pie - by  Ademar440",
+    "group": "Creators",
+    "modelMotionFile": "creators/ademar440_apple_pie_by_ademar440/apple_pie_by_ademar440/main.vmd",
+    "camMotionFile": "creators/ademar440_apple_pie_by_ademar440/apple_pie_by_ademar440/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/5e1db32b1cfd28aa0b724cde051312aa39fb4fec.mp3"
+  },
+  {
+    "name": "EP - Call On Me - By Ademar440",
+    "group": "Creators",
+    "modelMotionFile": "creators/ademar440_ep_call_on_me_by_ademar440/ep_call_on_me_by_adema/main.vmd"
+  },
+  {
+    "name": "EP - Call On Me - By Ademar440 - EP - Call on me - TDA - by Ademar440 - MMD",
+    "group": "Creators",
+    "modelMotionFile": "creators/ademar440_ep_call_on_me_by_ademar440/ep_call_on_me_by_adema/main_2.vmd"
+  },
+  {
+    "name": "Girls Day - Exp - By Ademar440 V1.3",
+    "group": "Creators",
+    "modelMotionFile": "creators/ademar440_girls_day_exp_by_ademar440_v1_/girls_day_exp_by_adema/main.vmd",
+    "camMotionFile": "creators/ademar440_girls_day_exp_by_ademar440_v1_/girls_day_exp_by_adema/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9980236a6a35e4e707119831895e069585b6a6b6.mp3"
+  },
+  {
+    "name": "Izumis True Heart - by Ademar440",
+    "group": "Creators",
+    "modelMotionFile": "creators/ademar440_izumis_true_heart_by_ademar440/izumis_true_heart_by_a/main.vmd",
+    "camMotionFile": "creators/ademar440_izumis_true_heart_by_ademar440/izumis_true_heart_by_a/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/c48837f083af438b73f2e68a47a978c2303ab3bf.mp3"
+  },
+  {
+    "name": "Motion [Phut Hon] By [Alexander]",
+    "group": "Creators",
+    "modelMotionFile": "creators/alexander_motion_phut_hon_by_alexander/motion_phut_hon_by_ale/main.vmd",
+    "camMotionFile": "creators/alexander_motion_phut_hon_by_alexander/motion_phut_hon_by_ale/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/e9db667e1bd929e14c667ba1b0d3a47b26ea38e5.mp3"
+  },
+  {
+    "name": "Motion [Simple Dimple Pop It] By [Alexander] (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/alexander_motion_simple_dimple_pop_it_by/motion_simple_dimple_p/main.vmd",
+    "partnerMotionFile": "creators/alexander_motion_simple_dimple_pop_it_by/motion_simple_dimple_p/partner.vmd",
+    "camMotionFile": "creators/alexander_motion_simple_dimple_pop_it_by/motion_simple_dimple_p/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b6a43bf4edc58aee755046cba64e3ad7445f0568.mp3"
+  },
+  {
+    "name": "Anitta - Bang (left + right)",
+    "group": "Creators",
+    "modelMotionFile": "creators/angelia_sakura_anitta_bang/anitta_bang_left_right/main.vmd",
+    "partnerMotionFile": "creators/angelia_sakura_anitta_bang/anitta_bang_left_right/partner.vmd",
+    "camMotionFile": "creators/angelia_sakura_anitta_bang/anitta_bang_left_right/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a81f7bc02487013282a2eb251ce14b02b55d0408.mp3"
+  },
+  {
+    "name": "Dope - Motions [BigYellowAlien]",
+    "group": "Creators",
+    "modelMotionFile": "creators/bigyellowalien_bts_dope_bigyellowalien_d/dope_motions_bigyellow/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b106214afc5cc101c0e752bb25cfbcb8982c63a8.mp3"
+  },
+  {
+    "name": "Dope - Motions [BigYellowAlien] - Jungkook",
+    "group": "Creators",
+    "modelMotionFile": "creators/bigyellowalien_bts_dope_bigyellowalien_d/dope_motions_bigyellow/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b106214afc5cc101c0e752bb25cfbcb8982c63a8.mp3"
+  },
+  {
+    "name": "Dope - Motions [BigYellowAlien] - V",
+    "group": "Creators",
+    "modelMotionFile": "creators/bigyellowalien_bts_dope_bigyellowalien_d/dope_motions_bigyellow/main_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b106214afc5cc101c0e752bb25cfbcb8982c63a8.mp3"
+  },
+  {
+    "name": "Dope - Motions [BigYellowAlien] - Jin",
+    "group": "Creators",
+    "modelMotionFile": "creators/bigyellowalien_bts_dope_bigyellowalien_d/dope_motions_bigyellow/main_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b106214afc5cc101c0e752bb25cfbcb8982c63a8.mp3"
+  },
+  {
+    "name": "GFRIEND - Glass Bead [BigYellowAlien] (2+3)",
+    "group": "Creators",
+    "modelMotionFile": "creators/bigyellowalien_gfriend_glass_bead_bigyel/gfriend_glass_bead_big/main.vmd",
+    "partnerMotionFile": "creators/bigyellowalien_gfriend_glass_bead_bigyel/gfriend_glass_bead_big/partner.vmd",
+    "camMotionFile": "creators/bigyellowalien_gfriend_glass_bead_bigyel/gfriend_glass_bead_big/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/7e8887b994d613047e513c22ae0c353d24beff0e.mp3"
+  },
+  {
+    "name": "GFRIEND - Glass Bead [BigYellowAlien] (4+5)",
+    "group": "Creators",
+    "modelMotionFile": "creators/bigyellowalien_gfriend_glass_bead_bigyel/gfriend_glass_bead_big/main_2.vmd",
+    "partnerMotionFile": "creators/bigyellowalien_gfriend_glass_bead_bigyel/gfriend_glass_bead_big/partner_2.vmd",
+    "camMotionFile": "creators/bigyellowalien_gfriend_glass_bead_bigyel/gfriend_glass_bead_big/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/7e8887b994d613047e513c22ae0c353d24beff0e.mp3"
+  },
+  {
+    "name": "Ice Cream Cake - Motions [BigYellowAlien] - Seulgi",
+    "group": "Creators",
+    "modelMotionFile": "creators/bigyellowalien_red_velvet_ice_cream_cake/ice_cream_cake_motions/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ad9df70e7ca9e5183b84517fb9d118f50972b03b.mp3"
+  },
+  {
+    "name": "Ice Cream Cake - Motions [BigYellowAlien] - Wendy",
+    "group": "Creators",
+    "modelMotionFile": "creators/bigyellowalien_red_velvet_ice_cream_cake/ice_cream_cake_motions/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ad9df70e7ca9e5183b84517fb9d118f50972b03b.mp3"
+  },
+  {
+    "name": "Ice Cream Cake - Motions [BigYellowAlien] - Yeri",
+    "group": "Creators",
+    "modelMotionFile": "creators/bigyellowalien_red_velvet_ice_cream_cake/ice_cream_cake_motions/main_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ad9df70e7ca9e5183b84517fb9d118f50972b03b.mp3"
+  },
+  {
+    "name": "BLACKPINK - DDU-DU-DDU-DU By DOLLYMOLLY",
+    "group": "Creators",
+    "modelMotionFile": "creators/dollymolly_blackpink_ddu_du_ddu_du_by_do/blackpink_ddu_du_ddu_d/main.vmd",
+    "camMotionFile": "creators/dollymolly_blackpink_ddu_du_ddu_du_by_do/blackpink_ddu_du_ddu_d/camera.vmd",
+    "expressionMotionFile": "creators/dollymolly_blackpink_ddu_du_ddu_du_by_do/blackpink_ddu_du_ddu_d/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ae207228d480adefac5ba2223511013af45de9f7.mp3"
+  },
+  {
+    "name": "Berry Good - Mellow Mellow - Motion (Changed by Dr. Cossack)",
+    "group": "Creators",
+    "modelMotionFile": "creators/dr_cossack_berry_good_mellow_mellow/berry_good_mellow_mell/main.vmd",
+    "camMotionFile": "creators/dr_cossack_berry_good_mellow_mellow/berry_good_mellow_mell/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/97ef3a2793b0320ffe6a0673923cb060a436e4fd.mp3"
+  },
+  {
+    "name": "Jennie - You and Me (Coachella ver.) by JULI",
+    "group": "Creators",
+    "modelMotionFile": "creators/juli_jennie_you_and_me_coachella_ver_by_/jennie_you_and_me_coac/main.vmd",
+    "camMotionFile": "creators/juli_jennie_you_and_me_coachella_ver_by_/jennie_you_and_me_coac/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ab5e1e0439408adab91b55b5abfcbbc5d6c24512.mp3"
+  },
+  {
+    "name": "JISOO -  'FLOWER' by JULI",
+    "group": "Creators",
+    "modelMotionFile": "creators/juli_jisoo_flower_by_juli_jisoo_flower_b/jisoo_flower_by_juli/main.vmd",
+    "camMotionFile": "creators/juli_jisoo_flower_by_juli_jisoo_flower_b/jisoo_flower_by_juli/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1579fddbeae397f7cad2c23c1ae4ecbf1c0414fb.mp3"
+  },
+  {
+    "name": "JISOO - Shut Down by JULI",
+    "group": "Creators",
+    "modelMotionFile": "creators/juli_jisoo_shut_down_by_juli_jisoo_shut_/jisoo_shut_down_by_jul/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2dfc0c0e86f7acb56558d42dab498fb8ac612aec.mp3"
+  },
+  {
+    "name": "KWON EUN BI - Glitch by JULI",
+    "group": "Creators",
+    "modelMotionFile": "creators/juli_kwon_eun_bi_kwon_eun_bi_glitch_by_j/kwon_eun_bi_glitch_by_/main.vmd",
+    "camMotionFile": "creators/juli_kwon_eun_bi_kwon_eun_bi_glitch_by_j/kwon_eun_bi_glitch_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4e68f5afaec4eca4514aaa5287b08cd13dae8da6.mp3"
+  },
+  {
+    "name": "LE SSERAFIM - _Blue Flame_ by JULI",
+    "group": "Creators",
+    "modelMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/main.vmd",
+    "camMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/camera.vmd"
+  },
+  {
+    "name": "LE SSERAFIM - _Blue Flame_ by JULI - Motion (Kazuha part)",
+    "group": "Creators",
+    "modelMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/main_2.vmd",
+    "camMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/camera.vmd"
+  },
+  {
+    "name": "Crab Rave {by KerryOZ}",
+    "group": "Creators",
+    "modelMotionFile": "creators/kerryoz_crab_rave_by_kerryoz/crab_rave_by_kerryoz_/main.vmd",
+    "camMotionFile": "creators/kerryoz_crab_rave_by_kerryoz/crab_rave_by_kerryoz_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/734e6605e88b32b60fd8b2152190278e898bd0b5.mp3"
+  },
+  {
+    "name": "モーション",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_181105_mmd_i_like_it/_/main.vmd",
+    "camMotionFile": "creators/kimagure_181105_mmd_i_like_it/_/camera.vmd"
+  },
+  {
+    "name": "210804 [MMD] Dreamcatcher - BEcause",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_210804_mmd_dreamcatcher_because/210804_mmd_dreamcatche/main.vmd",
+    "camMotionFile": "creators/kimagure_210804_mmd_dreamcatcher_because/210804_mmd_dreamcatche/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/bd28912c32eeb29765441966d967300545eef853.mp3"
+  },
+  {
+    "name": "210818 SOMI - DUMB DUMB (full)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_210818_somi_dumb_dumb_full_2108/210818_somi_dumb_dumb_/main.vmd",
+    "camMotionFile": "creators/kimagure_210818_somi_dumb_dumb_full_2108/210818_somi_dumb_dumb_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4072c3df96d8f06c5659daedad82cc7fc2f8d457.mp3"
+  },
+  {
+    "name": "210818 SOMI - DUMB DUMB (short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_210818_somi_dumb_dumb_short_210/210818_somi_dumb_dumb_/main.vmd",
+    "camMotionFile": "creators/kimagure_210818_somi_dumb_dumb_short_210/210818_somi_dumb_dumb_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d26daafe3ac99595de528f4d73d9aa59df62a867.mp3"
+  },
+  {
+    "name": "210927 [MMD] LISA - LALISA (Short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_210927_mmd_lisa_lalisa_short_21/210927_mmd_lisa_lalisa/main.vmd",
+    "camMotionFile": "creators/kimagure_210927_mmd_lisa_lalisa_short_21/210927_mmd_lisa_lalisa/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1080370b7ba4502ba13c0242f21915aa0b83f265.mp3"
+  },
+  {
+    "name": "211021 [MMD] TWICE - The Feels (FULL) (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_211021_mmd_twice_the_feels_full/211021_mmd_twice_the_f/main.vmd",
+    "partnerMotionFile": "creators/kimagure_211021_mmd_twice_the_feels_full/211021_mmd_twice_the_f/partner.vmd",
+    "camMotionFile": "creators/kimagure_211021_mmd_twice_the_feels_full/211021_mmd_twice_the_f/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/922ef2a79e0f786460c4068a0f4d1f63dea12e82.mp3"
+  },
+  {
+    "name": "211022  TWICE - The Feels (Short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_211022_twice_the_feels_short_21/211022_twice_the_feels/main.vmd",
+    "camMotionFile": "creators/kimagure_211022_twice_the_feels_short_21/211022_twice_the_feels/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1b2c2a8c334b5eb66fa5ceaedf77c99b7f801fad.mp3"
+  },
+  {
+    "name": "211030 MONEY (CHALLENGE ver)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_211030_money_challenge_ver_2110/211030_money_challenge/main.vmd",
+    "camMotionFile": "creators/kimagure_211030_money_challenge_ver_2110/211030_money_challenge/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2cfe77051196c884072c116be34195951f648734.mp3"
+  },
+  {
+    "name": "211128 TWICE - SCIENTIST (Short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_211128_twice_scientist_short_21/211128_twice_scientist/main.vmd",
+    "camMotionFile": "creators/kimagure_211128_twice_scientist_short_21/211128_twice_scientist/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/258eccfdf6c03467ca8020a803b92ff23ca6a28b.mp3"
+  },
+  {
+    "name": "220103 [MMD] LISA - MONEY (FULL)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220103_mmd_lisa_money_full_2201/220103_mmd_lisa_money_/main.vmd",
+    "camMotionFile": "creators/kimagure_220103_mmd_lisa_money_full_2201/220103_mmd_lisa_money_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/5377c3e4b6849d2ad0b52c4dc2d118aa3b8ccfa5.mp3"
+  },
+  {
+    "name": "Elysia Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220103_mmd_lisa_money_full_2201/elysia_motion/main.vmd",
+    "camMotionFile": "creators/kimagure_220103_mmd_lisa_money_full_2201/elysia_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/5377c3e4b6849d2ad0b52c4dc2d118aa3b8ccfa5.mp3"
+  },
+  {
+    "name": "6p Motion (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220308_mmd_stayc_ran2u_full_220/6p_motion_1_2_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_220308_mmd_stayc_ran2u_full_220/6p_motion_1_2_/partner.vmd",
+    "camMotionFile": "creators/kimagure_220308_mmd_stayc_ran2u_full_220/6p_motion_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/cf15621c518f7d043daa1601c868ddbe232a07d9.mp3"
+  },
+  {
+    "name": "6p Motion (3+4)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220308_mmd_stayc_ran2u_full_220/6p_motion_3_4_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_220308_mmd_stayc_ran2u_full_220/6p_motion_3_4_/partner.vmd",
+    "camMotionFile": "creators/kimagure_220308_mmd_stayc_ran2u_full_220/6p_motion_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/cf15621c518f7d043daa1601c868ddbe232a07d9.mp3"
+  },
+  {
+    "name": "6p Motion (5+6)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220308_mmd_stayc_ran2u_full_220/6p_motion_5_6_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_220308_mmd_stayc_ran2u_full_220/6p_motion_5_6_/partner.vmd",
+    "camMotionFile": "creators/kimagure_220308_mmd_stayc_ran2u_full_220/6p_motion_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/cf15621c518f7d043daa1601c868ddbe232a07d9.mp3"
+  },
+  {
+    "name": "220309 STAYC - RUN2U (Short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220309_stayc_run2u_short_220309/220309_stayc_run2u_sho/main.vmd",
+    "camMotionFile": "creators/kimagure_220309_stayc_run2u_short_220309/220309_stayc_run2u_sho/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6b9d848fbce1ea9ede823d988ed88f066189e20e.mp3"
+  },
+  {
+    "name": "Motion-aperture",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220330_mmd_g_i_dle_tomboy_full_/motion_aperture/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4be93570fb74960aad3d88c97c9bb398ea294f60.mp3"
+  },
+  {
+    "name": "220331  [MMD] (G)I-DLE - TOMBOY (short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220331_mmd_g_i_dle_tomboy_short/220331_mmd_g_i_dle_tom/main.vmd",
+    "camMotionFile": "creators/kimagure_220331_mmd_g_i_dle_tomboy_short/220331_mmd_g_i_dle_tom/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/5cd734271388612d8cd2e5b7ab101c7436d432dc.mp3"
+  },
+  {
+    "name": "Voltage",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220423_mmd_itzy_voltage_220423_/voltage/main.vmd",
+    "camMotionFile": "creators/kimagure_220423_mmd_itzy_voltage_220423_/voltage/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a09c914838395d4bda44648fd13e00a447d97dd0.mp3"
+  },
+  {
+    "name": "腕絞りMotion-aperture",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220423_mmd_itzy_voltage_220423_/_motion_aperture/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a09c914838395d4bda44648fd13e00a447d97dd0.mp3"
+  },
+  {
+    "name": "とらビキニ",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220423_mmd_itzy_voltage_220423_/_/main.vmd",
+    "camMotionFile": "creators/kimagure_220423_mmd_itzy_voltage_220423_/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a09c914838395d4bda44648fd13e00a447d97dd0.mp3"
+  },
+  {
+    "name": "ITZY - Voltage (Short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220423_mmd_itzy_voltage_220423_/itzy_voltage_short_/main.vmd",
+    "camMotionFile": "creators/kimagure_220423_mmd_itzy_voltage_220423_/itzy_voltage_short_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/e03e134075a7e1e3d59272d42484312a623e0c7d.mp3"
+  },
+  {
+    "name": "220515 [MMD] LE SSERAFIM - FEARLESS (FULL)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/220515_mmd_le_sserafim/main.vmd",
+    "camMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/220515_mmd_le_sserafim/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "5p Edited by Tanaka_Mikki",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/5p_edited_by_tanaka_mi/main.vmd",
+    "camMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/5p_edited_by_tanaka_mi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "5p Edited by Tanaka_Mikki - 1-OT5",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/5p_edited_by_tanaka_mi/main_2.vmd",
+    "camMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/5p_edited_by_tanaka_mi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "5p Edited by Tanaka_Mikki - 3-OT5",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/5p_edited_by_tanaka_mi/main_3.vmd",
+    "camMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/5p_edited_by_tanaka_mi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "5p Edited by Tanaka_Mikki - 2-OT5",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/5p_edited_by_tanaka_mi/main_4.vmd",
+    "camMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/5p_edited_by_tanaka_mi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "Motion (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/motion_1_2_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/motion_1_2_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "Motion (3+4)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/motion_3_4_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/motion_3_4_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "Motion (5+6)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/motion_5_6_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/motion_5_6_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "6p Edited by Tanaka_Mikki (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/6p_edited_by_tanaka_mi/main.vmd",
+    "partnerMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/6p_edited_by_tanaka_mi/partner.vmd",
+    "camMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/6p_edited_by_tanaka_mi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "6p Edited by Tanaka_Mikki (3+4)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/6p_edited_by_tanaka_mi/main_2.vmd",
+    "partnerMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/6p_edited_by_tanaka_mi/partner_2.vmd",
+    "camMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/6p_edited_by_tanaka_mi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "6p Edited by Tanaka_Mikki (5+6)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/6p_edited_by_tanaka_mi/main_3.vmd",
+    "partnerMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/6p_edited_by_tanaka_mi/partner_3.vmd",
+    "camMotionFile": "creators/kimagure_220515_mmd_le_sserafim_fearless/6p_edited_by_tanaka_mi/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/78aff940687172d3a8cea6d78a87f378d1d6e91c.mp3"
+  },
+  {
+    "name": "230616 LE SSERAFIM - 이브, 프시케 그리고 푸른 수염의 아내 (walk through the hallway) Motion DL (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_230616_le_sserafim_walk_through/230616_le_sserafim_wal/main.vmd",
+    "partnerMotionFile": "creators/kimagure_230616_le_sserafim_walk_through/230616_le_sserafim_wal/partner.vmd",
+    "camMotionFile": "creators/kimagure_230616_le_sserafim_walk_through/230616_le_sserafim_wal/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/255e979eeda1825ff753d28258b11c486c66d3b5.mp3"
+  },
+  {
+    "name": "230616 LE SSERAFIM - 이브, 프시케 그리고 푸른 수염의 아내 (walk through the hallway) Motion DL (3+4)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_230616_le_sserafim_walk_through/230616_le_sserafim_wal/main_2.vmd",
+    "partnerMotionFile": "creators/kimagure_230616_le_sserafim_walk_through/230616_le_sserafim_wal/partner_2.vmd",
+    "camMotionFile": "creators/kimagure_230616_le_sserafim_walk_through/230616_le_sserafim_wal/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/255e979eeda1825ff753d28258b11c486c66d3b5.mp3"
+  },
+  {
+    "name": "230616 LE SSERAFIM - 이브, 프시케 그리고 푸른 수염의 아내 (walk through the hallway) Motion DL (5)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_230616_le_sserafim_walk_through/230616_le_sserafim_wal/main_3.vmd",
+    "camMotionFile": "creators/kimagure_230616_le_sserafim_walk_through/230616_le_sserafim_wal/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/255e979eeda1825ff753d28258b11c486c66d3b5.mp3"
+  },
+  {
+    "name": "BLACKPINK -  Awesome",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_blackpink_awesome_blackpink_awe/blackpink_awesome/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/3321c0ce65ba2cefee56a7bb47aebbaf45089f13.mp3"
+  },
+  {
+    "name": "BLACKPINK - Lovesick Girls [Motion 4p ver.] - Motion (Jennie)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_blackpink_lovesick_girls_motion/blackpink_lovesick_gir/main.vmd",
+    "camMotionFile": "creators/kimagure_blackpink_lovesick_girls_motion/blackpink_lovesick_gir/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/40459c231c787955e91107cb96f6db82a8df7a28.mp3"
+  },
+  {
+    "name": "BLACKPINK - Lovesick Girls [Motion 4p ver.] - Motion (Rose)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_blackpink_lovesick_girls_motion/blackpink_lovesick_gir/main_2.vmd",
+    "camMotionFile": "creators/kimagure_blackpink_lovesick_girls_motion/blackpink_lovesick_gir/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/40459c231c787955e91107cb96f6db82a8df7a28.mp3"
+  },
+  {
+    "name": "BLACKPINK - Lovesick Girls [Motion 4p ver.] - Motion (Lisa)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_blackpink_lovesick_girls_motion/blackpink_lovesick_gir/main_3.vmd",
+    "camMotionFile": "creators/kimagure_blackpink_lovesick_girls_motion/blackpink_lovesick_gir/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/40459c231c787955e91107cb96f6db82a8df7a28.mp3"
+  },
+  {
+    "name": "How You Like That (short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_how_you_like_that_short/how_you_like_that_shor/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/daed15ad69e7ea31a2bb52989e6fd127ecbba10a.mp3"
+  },
+  {
+    "name": "Lovesick Girls (short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_lovesick_girls_short/lovesick_girls_short_/main.vmd",
+    "camMotionFile": "creators/kimagure_lovesick_girls_short/lovesick_girls_short_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b43fb33e3b871139daac2a4663411ad51f3050dd.mp3"
+  },
+  {
+    "name": "MMD bad guy",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_bad_guy/mmd_bad_guy/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_bad_guy/mmd_bad_guy/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b8b57ded385f0dffc525137e6444e43a3c1b143a.mp3"
+  },
+  {
+    "name": "NiziU - [Step and a step] Point dancing",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_niziu_step_and_a_step_point_dan/niziu_step_and_a_step_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a6ff90a99190f6bb45a9bda2cc3bf5c13f8523bf.mp3"
+  },
+  {
+    "name": "Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_cover_blackpink_how_you_lik/motion/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_cover_blackpink_how_you_lik/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/abc6a319f9bf81931a0ec28e56ae560df8c4ac60.mp3"
+  },
+  {
+    "name": "Motion - jisoo",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_cover_blackpink_how_you_lik/motion_jisoo/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_cover_blackpink_how_you_lik/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/abc6a319f9bf81931a0ec28e56ae560df8c4ac60.mp3"
+  },
+  {
+    "name": "Motion - rose",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_cover_blackpink_how_you_lik/motion_rose/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_cover_blackpink_how_you_lik/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/abc6a319f9bf81931a0ec28e56ae560df8c4ac60.mp3"
+  },
+  {
+    "name": "Motion - jennie",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_cover_blackpink_how_you_lik/motion_jennie/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_cover_blackpink_how_you_lik/motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/abc6a319f9bf81931a0ec28e56ae560df8c4ac60.mp3"
+  },
+  {
+    "name": "[MMD] BLACKPINK X Selena Gomez - Ice Cream (short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_blackpink_x_selena_gomez_ic/_mmd_blackpink_x_selen/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_blackpink_x_selena_gomez_ic/_mmd_blackpink_x_selen/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/084dd8e6d7b1874103e7e2ba3b8964fd74233971.mp3"
+  },
+  {
+    "name": "Man Model Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_bts_dynamite_mmd_bts_dynami/man_model_motion/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_bts_dynamite_mmd_bts_dynami/man_model_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1d760f0c56ec0297420ca4607c076fd09b45c74f.mp3"
+  },
+  {
+    "name": "Pattern 1 Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_doja_cat_kiss_me_more_mmd_d/pattern_1_motion/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_doja_cat_kiss_me_more_mmd_d/pattern_1_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f74482057dc9c5558c49a730f8633d45436ab37a.mp3"
+  },
+  {
+    "name": "Pattern 2 Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_doja_cat_kiss_me_more_mmd_d/pattern_2_motion/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_doja_cat_kiss_me_more_mmd_d/pattern_2_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f74482057dc9c5558c49a730f8633d45436ab37a.mp3"
+  },
+  {
+    "name": "Pattern 2 Motion - C",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_doja_cat_kiss_me_more_mmd_d/pattern_2_motion_c/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_doja_cat_kiss_me_more_mmd_d/pattern_2_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f74482057dc9c5558c49a730f8633d45436ab37a.mp3"
+  },
+  {
+    "name": "Pattern 2 Motion - B",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_doja_cat_kiss_me_more_mmd_d/pattern_2_motion_b/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_doja_cat_kiss_me_more_mmd_d/pattern_2_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f74482057dc9c5558c49a730f8633d45436ab37a.mp3"
+  },
+  {
+    "name": "[MMD] Dreamcatcher - Odd Eye",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_dreamcatcher_odd_eye_mmd_dr/_mmd_dreamcatcher_odd_/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_dreamcatcher_odd_eye_mmd_dr/_mmd_dreamcatcher_odd_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/cd43bf408c3a2d3fd62eefb60e9780fef992d206.mp3"
+  },
+  {
+    "name": "SOLO (tiktok ver.)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_jennie_solo_the_show_ver_mm/solo_tiktok_ver_/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_jennie_solo_the_show_ver_mm/solo_tiktok_ver_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/076a9a70e09d015e5a7f508e9e31f0a126447ea9.mp3"
+  },
+  {
+    "name": "[MMD] Mafia In the morning",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_mafia_in_the_morning_mmd_ma/_mmd_mafia_in_the_morn/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_mafia_in_the_morning_mmd_ma/_mmd_mafia_in_the_morn/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f407c57437af6e39ba8564dcd1fc1202d118c8a8.mp3"
+  },
+  {
+    "name": "Pattern 2",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_mafia_in_the_morning_mmd_ma/pattern_2/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_mafia_in_the_morning_mmd_ma/pattern_2/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f407c57437af6e39ba8564dcd1fc1202d118c8a8.mp3"
+  },
+  {
+    "name": "グラーフ・ツェッペリン",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_mafia_in_the_morning_mmd_ma/_/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_mafia_in_the_morning_mmd_ma/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f407c57437af6e39ba8564dcd1fc1202d118c8a8.mp3"
+  },
+  {
+    "name": "[MMD] OH MY GIRL - Nonstop - Motion2",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_oh_my_girl_nonstop_mmd_oh_m/_mmd_oh_my_girl_nonsto/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_oh_my_girl_nonstop_mmd_oh_m/_mmd_oh_my_girl_nonsto/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1da3c771c989be36ff70f083479537282f35318f.mp3"
+  },
+  {
+    "name": "No 3",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_on_the_ground_mmd_on_the_gr/no_3/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_on_the_ground_mmd_on_the_gr/no_3/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/68e28a6401f0f808b5fe77f51742e1f49ebfef7c.mp3"
+  },
+  {
+    "name": "[MMD] Poo Neep E-Pi (LISA)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_poo_neep_e_pi_lisa_mmd_poo_/_mmd_poo_neep_e_pi_lis/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d981b006b56e419c36632be4d1032df8461e25ee.mp3"
+  },
+  {
+    "name": "9model (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_1_2_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_1_2_/partner.vmd",
+    "camMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6fe15366c5eedd0081faa53c0905a1cc3b55aa5e.mp3"
+  },
+  {
+    "name": "9model (3+4)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_3_4_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_3_4_/partner.vmd",
+    "camMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6fe15366c5eedd0081faa53c0905a1cc3b55aa5e.mp3"
+  },
+  {
+    "name": "9model (5+6)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_5_6_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_5_6_/partner.vmd",
+    "camMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6fe15366c5eedd0081faa53c0905a1cc3b55aa5e.mp3"
+  },
+  {
+    "name": "9model (7+8)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_7_8_/main.vmd",
+    "partnerMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_7_8_/partner.vmd",
+    "camMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6fe15366c5eedd0081faa53c0905a1cc3b55aa5e.mp3"
+  },
+  {
+    "name": "9model (9)",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_9_/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_twice_more_more_full_ver_mm/9model_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6fe15366c5eedd0081faa53c0905a1cc3b55aa5e.mp3"
+  },
+  {
+    "name": "[short] On The Ground",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_short_on_the_ground_short_on_th/_short_on_the_ground/main.vmd",
+    "camMotionFile": "creators/kimagure_short_on_the_ground_short_on_th/_short_on_the_ground/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d0f1ac1f93a2b60cc06ebcc7963bf40dbc4ae36a.mp3"
+  },
+  {
+    "name": "_mmd__aoa___heart_attack__motion_dl__by_maxutkamaximus_dd2tlts",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_aoa_heart_attack_motion_dl_/_mmd_aoa_heart_attack_/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_aoa_heart_attack_motion_dl_/_mmd_aoa_heart_attack_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/daad66dac3f123c5e0daa4bb23d3dfced4e0e222.mp3"
+  },
+  {
+    "name": "{MMD} LISA - SENORITA",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_lisa_senorita_mmd_lisa_seno/_mmd_lisa_senorita/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_lisa_senorita_mmd_lisa_seno/_mmd_lisa_senorita/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/e80faadea729bf0d9bda0a2881da903a9e16ddf7.mp3"
+  },
+  {
+    "name": "{MMD} Say So",
+    "group": "Creators",
+    "modelMotionFile": "creators/kimagure_mmd_say_so_mmd_say_so/_mmd_say_so/main.vmd",
+    "camMotionFile": "creators/kimagure_mmd_say_so_mmd_say_so/_mmd_say_so/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/fdd57e14137388cfd4593a1ac5ad026646acea3c.mp3"
+  },
+  {
+    "name": "aespa - Girls",
+    "group": "Creators",
+    "modelMotionFile": "creators/ladiealien_aespa_girls/aespa_girls/main.vmd",
+    "camMotionFile": "creators/ladiealien_aespa_girls/aespa_girls/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/346c3b90bcf6e3eba57399e02c8d5f1adcaa0179.mp3"
+  },
+  {
+    "name": "KDA - MORE [LadieAlien] (2+3)",
+    "group": "Creators",
+    "modelMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/main.vmd",
+    "partnerMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/partner.vmd",
+    "camMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/camera.vmd"
+  },
+  {
+    "name": "KDA - MORE [LadieAlien] (4)",
+    "group": "Creators",
+    "modelMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_4_/main.vmd",
+    "camMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/camera.vmd"
+  },
+  {
+    "name": "KDA - THE BADDEST [LadieAlien]",
+    "group": "Creators",
+    "modelMotionFile": "creators/ladiealien_kda_the_baddest_ladiealien/kda_the_baddest_ladiea/main.vmd",
+    "camMotionFile": "creators/ladiealien_kda_the_baddest_ladiealien/kda_the_baddest_ladiea/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/34cd4c035ca655ed96102ee94c100c1d84e4986b.mp3"
+  },
+  {
+    "name": "Red Velvet - Monster [LadieAlien]",
+    "group": "Creators",
+    "modelMotionFile": "creators/ladiealien_red_velvet_monster_ladiealien/red_velvet_monster_lad/main.vmd",
+    "camMotionFile": "creators/ladiealien_red_velvet_monster_ladiealien/red_velvet_monster_lad/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/5ec7f21f36a5b2d04f5fc31c0bda383323037e92.mp3"
+  },
+  {
+    "name": "Red Velvet - Monster [LadieAlien] - Monster - Irene Motion [LadieAlien]",
+    "group": "Creators",
+    "modelMotionFile": "creators/ladiealien_red_velvet_monster_ladiealien/red_velvet_monster_lad/main_2.vmd",
+    "camMotionFile": "creators/ladiealien_red_velvet_monster_ladiealien/red_velvet_monster_lad/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/5ec7f21f36a5b2d04f5fc31c0bda383323037e92.mp3"
+  },
+  {
+    "name": "Sistar Shake It motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/lan_ruo_ruo_sistar_shake_it_motion/sistar_shake_it_motion/main.vmd",
+    "camMotionFile": "creators/lan_ruo_ruo_sistar_shake_it_motion/sistar_shake_it_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/36f2b6847db8622fb68a68451f76f061be5467d3.mp3"
+  },
+  {
+    "name": "BIZCOCHITO",
+    "group": "Creators",
+    "modelMotionFile": "creators/leomarie_bizcochito/bizcochito/main.vmd",
+    "expressionMotionFile": "creators/leomarie_bizcochito/bizcochito/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b02af9f4fa7032de14a8100aa453df934ef88836.mp3"
+  },
+  {
+    "name": "About Damn Time! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_about_damn_time_motion/about_damn_time_motion/main.vmd",
+    "camMotionFile": "creators/mei_about_damn_time_motion/about_damn_time_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/0e05b135ba22f7efe9cb7e78f97ad929db025792.mp3"
+  },
+  {
+    "name": "Abracadabra (Hip Sway) - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_abracadabra_hip_sway_motion/abracadabra_hip_sway_m/main.vmd",
+    "camMotionFile": "creators/mei_abracadabra_hip_sway_motion/abracadabra_hip_sway_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/fcc1ddc616b90298ca77885e70a121aa0167abab.mp3"
+  },
+  {
+    "name": "Anime Voice_s Challenge - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_anime_voice_s_challenge_motion/anime_voice_s_challeng/main.vmd",
+    "camMotionFile": "creators/mei_anime_voice_s_challenge_motion/anime_voice_s_challeng/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/89674f5fc45a05db23fc391be5c6d57b3892d0dc.mp3"
+  },
+  {
+    "name": "Ankha Zone - Motion (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_ankha_zone_motion/ankha_zone_motion_1_2_/main.vmd",
+    "partnerMotionFile": "creators/mei_ankha_zone_motion/ankha_zone_motion_1_2_/partner.vmd",
+    "camMotionFile": "creators/mei_ankha_zone_motion/ankha_zone_motion_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/200e6725077e70765e4288fadd232725ab69b52d.mp3"
+  },
+  {
+    "name": "Arigato Nya~! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_arigato_nya_motion/arigato_nya_motion/main.vmd",
+    "camMotionFile": "creators/mei_arigato_nya_motion/arigato_nya_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/083b0b547da2820b54d0f967c527d8d4189c80d4.mp3"
+  },
+  {
+    "name": "Automotivo Extradimentional - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_automotivo_extradimentional_motion/automotivo_extradiment/main.vmd",
+    "camMotionFile": "creators/mei_automotivo_extradimentional_motion/automotivo_extradiment/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/080f7b5f43520fe5be302b180adc773305717a28.mp3"
+  },
+  {
+    "name": "Baby It's Your World Ain't It (Roblox Dance) - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_baby_it_s_your_world_ain_t_it_roblox/baby_it_s_your_world_a/main.vmd",
+    "camMotionFile": "creators/mei_baby_it_s_your_world_ain_t_it_roblox/baby_it_s_your_world_a/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b9080220540d28a0598a71480fccfaef68b85f41.mp3"
+  },
+  {
+    "name": "Baby's on Fire (TikTok Dance) - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_baby_s_on_fire_tiktok_dance_motion/baby_s_on_fire_tiktok_/main.vmd",
+    "camMotionFile": "creators/mei_baby_s_on_fire_tiktok_dance_motion/baby_s_on_fire_tiktok_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/7c5eda705c9af7be9e05749d30dac33af2f2d0d8.mp3"
+  },
+  {
+    "name": "Baby's on Fire (TikTok Dance) - Motion - Non- Smooth",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_baby_s_on_fire_tiktok_dance_motion/baby_s_on_fire_tiktok_/main_2.vmd",
+    "camMotionFile": "creators/mei_baby_s_on_fire_tiktok_dance_motion/baby_s_on_fire_tiktok_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/7c5eda705c9af7be9e05749d30dac33af2f2d0d8.mp3"
+  },
+  {
+    "name": "Bass da da Da - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_bass_da_da_da_motion/bass_da_da_da_motion/main.vmd",
+    "camMotionFile": "creators/mei_bass_da_da_da_motion/bass_da_da_da_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2d89db3db67ff9db4acfc7142c2bd5557d9611ce.mp3"
+  },
+  {
+    "name": "Bills-Bills-Bills Meme Dance - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_bills_bills_bills_meme_dance_motion/bills_bills_bills_meme/main.vmd",
+    "camMotionFile": "creators/mei_bills_bills_bills_meme_dance_motion/bills_bills_bills_meme/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ade393138f1a060626f3b8aaa7aa8a8bf89ed15b.mp3"
+  },
+  {
+    "name": "Body Built Like a Dancer - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_body_built_like_a_dancer_motion/body_built_like_a_danc/main.vmd",
+    "camMotionFile": "creators/mei_body_built_like_a_dancer_motion/body_built_like_a_danc/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/726d9a8046e2b09dbada6c34878582a308149ce5.mp3"
+  },
+  {
+    "name": "Body On My Mind - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_body_on_my_mind_motion_mei/body_on_my_mind_motion/main.vmd",
+    "camMotionFile": "creators/mei_body_on_my_mind_motion_mei/body_on_my_mind_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/410d81e893402694917b6675cb618359b266a5c2.mp3"
+  },
+  {
+    "name": "BOUNCE WHEN SHE WALK - MOTION (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_bounce_when_she_walk_motion_mei/bounce_when_she_walk_m/main.vmd",
+    "camMotionFile": "creators/mei_bounce_when_she_walk_motion_mei/bounce_when_she_walk_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/88907a0f71b37fb81a4e87b6687be53a586f1e09.mp3"
+  },
+  {
+    "name": "BrooklynBloodPop! Dance - Motion (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_brooklynbloodpop_dance_motion/brooklynbloodpop_dance/main.vmd",
+    "partnerMotionFile": "creators/mei_brooklynbloodpop_dance_motion/brooklynbloodpop_dance/partner.vmd",
+    "camMotionFile": "creators/mei_brooklynbloodpop_dance_motion/brooklynbloodpop_dance/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/13e9d24493c2d1a65cd4141e27bdac43a326d32f.mp3"
+  },
+  {
+    "name": "Buckle Up - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_buckle_up_motion_mei/buckle_up_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_buckle_up_motion_mei/buckle_up_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/dafab8a40b0f35e34532637de5fc06bdf2f1b326.mp3"
+  },
+  {
+    "name": "Build a B!tch! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_build_a_b_tch_motion/build_a_b_tch_motion/main.vmd",
+    "camMotionFile": "creators/mei_build_a_b_tch_motion/build_a_b_tch_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/5a19c0548ad7be4da02598c191e819b9f7203551.mp3"
+  },
+  {
+    "name": "Bumble Bee -  Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_bumble_bee_motion/bumble_bee_motion/main.vmd",
+    "camMotionFile": "creators/mei_bumble_bee_motion/bumble_bee_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d4bfc85424e791357182156033d8d9ca727d17f0.mp3"
+  },
+  {
+    "name": "Bury a Friend - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_bury_a_friend_motion/bury_a_friend_motion/main.vmd",
+    "camMotionFile": "creators/mei_bury_a_friend_motion/bury_a_friend_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/7ab199e77d3d83c96c8b12065ff0c0b7edfb86e0.mp3"
+  },
+  {
+    "name": "Buss It Challenge - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_buss_it_challenge_motion/buss_it_challenge_moti/main.vmd",
+    "camMotionFile": "creators/mei_buss_it_challenge_motion/buss_it_challenge_moti/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2b6b0bd996623a3524a34e3f90ff758d06304649.mp3"
+  },
+  {
+    "name": "Cat On The Ceiling (Ankha HipSway) - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_cat_on_the_ceiling_ankha_hipsway_mot/cat_on_the_ceiling_ank/main.vmd",
+    "camMotionFile": "creators/mei_cat_on_the_ceiling_ankha_hipsway_mot/cat_on_the_ceiling_ank/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/fe7b2a96cc1c42d80deabfc6c28570f2a19d4b86.mp3"
+  },
+  {
+    "name": "Chika Dance - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_chika_dance_motion/chika_dance_motion/main.vmd",
+    "camMotionFile": "creators/mei_chika_dance_motion/chika_dance_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d5b496d4b7e92100e5ac00b38e23ff2af90e9044.mp3"
+  },
+  {
+    "name": "Chinese New Year TikTok - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_chinese_new_year_tiktok_motion/chinese_new_year_tikto/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/edc9011a0e8fdb05106c7ac869d86f2cc8f4da47.mp3"
+  },
+  {
+    "name": "Conceited - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_conceited_motion_mei/conceited_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_conceited_motion_mei/conceited_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/860894c218f2de15662300f4a91f1f466f16f86f.mp3"
+  },
+  {
+    "name": "Cute Lil' Dance - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_cute_lil_dance_motion_mei/cute_lil_dance_motion_/main.vmd",
+    "camMotionFile": "creators/mei_cute_lil_dance_motion_mei/cute_lil_dance_motion_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/27ed27cad7b160d919132960329f1e7e6f2f2edf.mp3"
+  },
+  {
+    "name": "Cute Oui Dance Trend - Motion (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_cute_oui_dance_trend_motion/cute_oui_dance_trend_m/main.vmd",
+    "partnerMotionFile": "creators/mei_cute_oui_dance_trend_motion/cute_oui_dance_trend_m/partner.vmd",
+    "camMotionFile": "creators/mei_cute_oui_dance_trend_motion/cute_oui_dance_trend_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1635a24d32e9790279b4f0470896feaf638c2057.mp3"
+  },
+  {
+    "name": "Gal - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_gal_motion_mei/gal_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_gal_motion_mei/gal_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/29cf55a636419e958d61d31f8fc7716d503d3273.mp3"
+  },
+  {
+    "name": "Get Groovy - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_get_groovy_motion_mei/get_groovy_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_get_groovy_motion_mei/get_groovy_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/3ad468d63fda402790f09c841aa860623730fe63.mp3"
+  },
+  {
+    "name": "Get Into it, Yuh! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_get_into_it_yuh_motion/get_into_it_yuh_motion/main.vmd",
+    "camMotionFile": "creators/mei_get_into_it_yuh_motion/get_into_it_yuh_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d1031306306143f519e6c801258a9978d3545207.mp3"
+  },
+  {
+    "name": "Get Off The Wall - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_get_off_the_wall_motion_mei/get_off_the_wall_motio/main.vmd",
+    "camMotionFile": "creators/mei_get_off_the_wall_motion_mei/get_off_the_wall_motio/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/74df0f4d21934aafb768f99a7f1a2c355db9412e.mp3"
+  },
+  {
+    "name": "Give it to me X Say it right - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_give_it_to_me_x_say_it_right_motion/give_it_to_me_x_say_it/main.vmd",
+    "camMotionFile": "creators/mei_give_it_to_me_x_say_it_right_motion/give_it_to_me_x_say_it/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/893acfe64e4692edb65efdd620983c79462e2597.mp3"
+  },
+  {
+    "name": "Gomy x3 - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_gomy_x3_motion_mei/gomy_x3_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_gomy_x3_motion_mei/gomy_x3_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/8b538a207c76d86ed3d7273fb10a2a54a6e76dfe.mp3"
+  },
+  {
+    "name": "Hip Roll - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_hip_roll_motion/hip_roll_motion/main.vmd",
+    "camMotionFile": "creators/mei_hip_roll_motion/hip_roll_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/56a9dfa9a4bfcfee9b1e063d9f8cb94fcafd4e28.mp3"
+  },
+  {
+    "name": "Hit it - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_hit_it_motion/hit_it_motion/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/711828bc622deee30d036a1dc31be949a44d1cbe.mp3"
+  },
+  {
+    "name": "Hit it - Motion - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_hit_it_motion/hit_it_motion_motion/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/711828bc622deee30d036a1dc31be949a44d1cbe.mp3"
+  },
+  {
+    "name": "Hush Hush - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_hush_hush_motion/hush_hush_motion/main.vmd",
+    "camMotionFile": "creators/mei_hush_hush_motion/hush_hush_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6a39ce7ce57eea7484295d97c4157f9525109210.mp3"
+  },
+  {
+    "name": "I Can't Take It - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_i_can_t_take_it_motion/i_can_t_take_it_motion/main.vmd",
+    "camMotionFile": "creators/mei_i_can_t_take_it_motion/i_can_t_take_it_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/7936f798bb9bcd7aaa244e01297e3345a405cec4.mp3"
+  },
+  {
+    "name": "I Really Like Your Body - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_i_really_like_your_body_motion/i_really_like_your_bod/main.vmd",
+    "camMotionFile": "creators/mei_i_really_like_your_body_motion/i_really_like_your_bod/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/291165e4133e468081ddcd6e06524f09bef7dbf5.mp3"
+  },
+  {
+    "name": "I'd Wanna Be Me Too - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_i_d_wanna_be_me_too_motion/i_d_wanna_be_me_too_mo/main.vmd",
+    "camMotionFile": "creators/mei_i_d_wanna_be_me_too_motion/i_d_wanna_be_me_too_mo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a18f0c43811cd70638fe73631afc7b6dae5df0fe.mp3"
+  },
+  {
+    "name": "I'm BAD - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_i_m_bad_motion_mei/i_m_bad_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_i_m_bad_motion_mei/i_m_bad_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1b2bb76d0466fc6642e225ffb48f8e8b5009f608.mp3"
+  },
+  {
+    "name": "Inferno - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_inferno_motion/inferno_motion/main.vmd",
+    "camMotionFile": "creators/mei_inferno_motion/inferno_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/8465823b45c982399f9d0ae570978e6a99cd57a9.mp3"
+  },
+  {
+    "name": "Is it Fat Enough TikTok - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_is_it_fat_enough_tiktok_motion/is_it_fat_enough_tikto/main.vmd",
+    "camMotionFile": "creators/mei_is_it_fat_enough_tiktok_motion/is_it_fat_enough_tikto/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/92786f4d06f4cc7f27778948417fb6833b17f74e.mp3"
+  },
+  {
+    "name": "I_mma Savage - Motion (Akai)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_i_mma_savage_motion_akai/i_mma_savage_motion_ak/main.vmd",
+    "camMotionFile": "creators/mei_i_mma_savage_motion_akai/i_mma_savage_motion_ak/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a61da8c7bfa12685df4306b4486104d3c407be97.mp3"
+  },
+  {
+    "name": "Jisoo - Flower [Motion - Mei]",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_jisoo_flower_motion_mei/jisoo_flower_motion_me/main.vmd",
+    "camMotionFile": "creators/mei_jisoo_flower_motion_mei/jisoo_flower_motion_me/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/77ded7fa9cb7caf3e43807ff0fcb88144222f79e.mp3"
+  },
+  {
+    "name": "Jojo Pose Challenge - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_jojo_pose_challenge_motion/jojo_pose_challenge_mo/main.vmd",
+    "camMotionFile": "creators/mei_jojo_pose_challenge_motion/jojo_pose_challenge_mo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/efbedcab817bdb761f909f27cb7feb9bff3956a0.mp3"
+  },
+  {
+    "name": "Kiss Me More - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_kiss_me_more_motion/kiss_me_more_motion/main.vmd",
+    "camMotionFile": "creators/mei_kiss_me_more_motion/kiss_me_more_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/20ac0f3d5d04198433ae3150a9bb6196af042ef0.mp3"
+  },
+  {
+    "name": "Kokain TikTok Dance - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_kokain_tiktok_dance_motion/kokain_tiktok_dance_mo/main.vmd",
+    "camMotionFile": "creators/mei_kokain_tiktok_dance_motion/kokain_tiktok_dance_mo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/0151c1198aed927dc4a00abdaef60d8986875817.mp3"
+  },
+  {
+    "name": "Hai Phut Hon - Full Dance Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_longer_hip_sway_motion_hai_phut_hon_/hai_phut_hon_full_danc/main.vmd",
+    "camMotionFile": "creators/mei_longer_hip_sway_motion_hai_phut_hon_/hai_phut_hon_full_danc/camera.vmd"
+  },
+  {
+    "name": "Make Me Sweat - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_make_me_sweat_motion/make_me_sweat_motion/main.vmd",
+    "camMotionFile": "creators/mei_make_me_sweat_motion/make_me_sweat_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4070bb2ce7c943b99897a37235983086d43cb3db.mp3"
+  },
+  {
+    "name": "MAVE - Pandora [Mei]",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_mave_pandora_mei/mave_pandora_mei_/main.vmd",
+    "camMotionFile": "creators/mei_mave_pandora_mei/mave_pandora_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/3b7da4936b43917d028c7e775161dd42e80d62f4.mp3"
+  },
+  {
+    "name": "ME!ME!ME! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_me_me_me_motion/me_me_me_motion/main.vmd",
+    "camMotionFile": "creators/mei_me_me_me_motion/me_me_me_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d53a55b499468bdc48aae20ecc839c089b478cb9.mp3"
+  },
+  {
+    "name": "MilkShake Remix Dance - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_milkshake_remix_dance_motion/milkshake_remix_dance_/main.vmd",
+    "camMotionFile": "creators/mei_milkshake_remix_dance_motion/milkshake_remix_dance_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f80c4f707064e2999ca17e56265133db16a0a117.mp3"
+  },
+  {
+    "name": "Montagem PR Funk - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_montagem_pr_funk_motion/montagem_pr_funk_motio/main.vmd",
+    "camMotionFile": "creators/mei_montagem_pr_funk_motion/montagem_pr_funk_motio/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/013991bfdab1e8b3c67655ec8745d07723b0baa3.mp3"
+  },
+  {
+    "name": "Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_motion_mei/motion_mei_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/093bfb3f10430a5e8d733a20e184c03a7389ea48.mp3"
+  },
+  {
+    "name": "motions (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_motions/motions_1_2_/main.vmd",
+    "partnerMotionFile": "creators/mei_motions/motions_1_2_/partner.vmd",
+    "camMotionFile": "creators/mei_motions/motions_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b06271bc85e04986c338ccb2a78390602b12c560.mp3"
+  },
+  {
+    "name": "motions (3+4)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_motions/motions_3_4_/main.vmd",
+    "partnerMotionFile": "creators/mei_motions/motions_3_4_/partner.vmd",
+    "camMotionFile": "creators/mei_motions/motions_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b06271bc85e04986c338ccb2a78390602b12c560.mp3"
+  },
+  {
+    "name": "motions (5)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_motions/motions_5_/main.vmd",
+    "camMotionFile": "creators/mei_motions/motions_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b06271bc85e04986c338ccb2a78390602b12c560.mp3"
+  },
+  {
+    "name": "Muerto Gang - Motion (Mei) (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_muerto_gang_motion_mei/muerto_gang_motion_mei/main.vmd",
+    "partnerMotionFile": "creators/mei_muerto_gang_motion_mei/muerto_gang_motion_mei/partner.vmd",
+    "camMotionFile": "creators/mei_muerto_gang_motion_mei/muerto_gang_motion_mei/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/cbb9f202b0ce363043c03e03bec87f19da751b15.mp3"
+  },
+  {
+    "name": "Night Dancer - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_night_dancer_motion_mei/night_dancer_motion_me/main.vmd",
+    "camMotionFile": "creators/mei_night_dancer_motion_mei/night_dancer_motion_me/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a7e01a8f63e261f632583e61503d6363b9b90aaf.mp3"
+  },
+  {
+    "name": "On The Bar (TikTok Dance Trend) - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_on_the_bar_tiktok_dance_trend_motion/on_the_bar_tiktok_danc/main.vmd",
+    "camMotionFile": "creators/mei_on_the_bar_tiktok_dance_trend_motion/on_the_bar_tiktok_danc/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/59419088239ec6a6544af5918a797fd2aad7ed8b.mp3"
+  },
+  {
+    "name": "Paint The Town Red - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_paint_the_town_red_motion_mei/paint_the_town_red_mot/main.vmd",
+    "camMotionFile": "creators/mei_paint_the_town_red_motion_mei/paint_the_town_red_mot/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/edf39986204019813f52bc08b7a29fdfaafc0489.mp3"
+  },
+  {
+    "name": "Pare - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_pare_motion/pare_motion/main.vmd",
+    "camMotionFile": "creators/mei_pare_motion/pare_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4cba31831846cfe4ee749736c3f2c2f6bd7329c1.mp3"
+  },
+  {
+    "name": "Party Hips - (Made By - Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_party_hips_made_by_mei/party_hips_made_by_mei/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a349ca967993c80a8f279b43764c13a28ae43f0b.mp3"
+  },
+  {
+    "name": "Phut HOn - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_phut_hon_motion/phut_hon_motion/main.vmd",
+    "camMotionFile": "creators/mei_phut_hon_motion/phut_hon_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4700b1bf47f755a458231d88e33aab1716dd0830.mp3"
+  },
+  {
+    "name": "Pimp Named, SlickBack - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_pimp_named_slickback_motion_mei/pimp_named_slickback_m/main.vmd",
+    "camMotionFile": "creators/mei_pimp_named_slickback_motion_mei/pimp_named_slickback_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/05bdad8f2aac1a1ad9dc58187de407bda189441a.mp3"
+  },
+  {
+    "name": "Pink Venom - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_pink_venom_motion_mei/pink_venom_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_pink_venom_motion_mei/pink_venom_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ae5bd12e518db998a0313c0836d686bc642d7dd1.mp3"
+  },
+  {
+    "name": "Rakuten Point Dance - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_rakuten_point_dance_motion/rakuten_point_dance_mo/main.vmd",
+    "camMotionFile": "creators/mei_rakuten_point_dance_motion/rakuten_point_dance_mo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/63b5b9595cd8f9b049c784a76f7e090b17760c67.mp3"
+  },
+  {
+    "name": "Rarest Thing in The World - Motion (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_rarest_thing_in_the_world_motion/rarest_thing_in_the_wo/main.vmd",
+    "partnerMotionFile": "creators/mei_rarest_thing_in_the_world_motion/rarest_thing_in_the_wo/partner.vmd",
+    "camMotionFile": "creators/mei_rarest_thing_in_the_world_motion/rarest_thing_in_the_wo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f1b6ea4f9121bc3b01efc3654011bfd7f5f5b3cd.mp3"
+  },
+  {
+    "name": "Rarest Thing in The World - Motion (3+4)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_rarest_thing_in_the_world_motion/rarest_thing_in_the_wo/main_2.vmd",
+    "partnerMotionFile": "creators/mei_rarest_thing_in_the_world_motion/rarest_thing_in_the_wo/partner_2.vmd",
+    "camMotionFile": "creators/mei_rarest_thing_in_the_world_motion/rarest_thing_in_the_wo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f1b6ea4f9121bc3b01efc3654011bfd7f5f5b3cd.mp3"
+  },
+  {
+    "name": "Renai Circulation Dance - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_renai_circulation_dance_motion/renai_circulation_danc/main.vmd",
+    "camMotionFile": "creators/mei_renai_circulation_dance_motion/renai_circulation_danc/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/8848bf4f353d8c38bc9c468fe0728db0cfde7e3d.mp3"
+  },
+  {
+    "name": "Sad Cat Dance - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_sad_cat_dance_motion_mei/sad_cat_dance_motion_m/main.vmd",
+    "camMotionFile": "creators/mei_sad_cat_dance_motion_mei/sad_cat_dance_motion_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/bd9b8e800c32e114aad2425c17e458e4e1c6c8ee.mp3"
+  },
+  {
+    "name": "Say So. - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_say_so_motion/say_so_motion/main.vmd",
+    "camMotionFile": "creators/mei_say_so_motion/say_so_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6e0f8e3209287e4acd0e027ad8d29828304fc13a.mp3"
+  },
+  {
+    "name": "Se Você Não Quer Passa a Vez - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_se_voc_n_o_quer_passa_a_vez_motion_m/se_voc_n_o_quer_passa_/main.vmd",
+    "camMotionFile": "creators/mei_se_voc_n_o_quer_passa_a_vez_motion_m/se_voc_n_o_quer_passa_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2f5118fbe8c2673727902a2f49a94bec651249a9.mp3"
+  },
+  {
+    "name": "Shawty Got a Big Ole_ Booty! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_shawty_got_a_big_ole_booty_motion/shawty_got_a_big_ole_b/main.vmd",
+    "camMotionFile": "creators/mei_shawty_got_a_big_ole_booty_motion/shawty_got_a_big_ole_b/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d502c6f1bd5a3dac0015b4fb0b02b5a32726f77f.mp3"
+  },
+  {
+    "name": "Shawty Like to Flirt! - Motion Download!",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_shawty_like_to_flirt_motion_download/shawty_like_to_flirt_m/main.vmd",
+    "camMotionFile": "creators/mei_shawty_like_to_flirt_motion_download/shawty_like_to_flirt_m/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/3405be26ec26f3f453082c645e7d719aad20cfa4.mp3"
+  },
+  {
+    "name": "Simple Dimple - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_simple_dimple_motion/simple_dimple_motion/main.vmd",
+    "camMotionFile": "creators/mei_simple_dimple_motion/simple_dimple_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/370871f7c43e39c301b614c29727409ef6bc246d.mp3"
+  },
+  {
+    "name": "So Clean, So Delicious~! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_so_clean_so_delicious_motion/so_clean_so_delicious_/main.vmd",
+    "camMotionFile": "creators/mei_so_clean_so_delicious_motion/so_clean_so_delicious_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/0dc8ced17525ac855f0fb22030b9888784024df8.mp3"
+  },
+  {
+    "name": "So Clean, So Delicious~! - Motion - Motion 2",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_so_clean_so_delicious_motion/so_clean_so_delicious_/main_2.vmd",
+    "camMotionFile": "creators/mei_so_clean_so_delicious_motion/so_clean_so_delicious_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/0dc8ced17525ac855f0fb22030b9888784024df8.mp3"
+  },
+  {
+    "name": "Some Cut - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_some_cut_motion/some_cut_motion/main.vmd",
+    "camMotionFile": "creators/mei_some_cut_motion/some_cut_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2efb9ce91cb941399e54b35396e503a8727539c1.mp3"
+  },
+  {
+    "name": "Stay - (Motion - By Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_stay_motion_by_mei/stay_motion_by_mei_/main.vmd",
+    "camMotionFile": "creators/mei_stay_motion_by_mei/stay_motion_by_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ab426976bce8b97ce00c9d028fa36c34150d115f.mp3"
+  },
+  {
+    "name": "Stay - (Motion - By Mei) - Motion (First Part)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_stay_motion_by_mei/stay_motion_by_mei_mot/main.vmd",
+    "camMotionFile": "creators/mei_stay_motion_by_mei/stay_motion_by_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ab426976bce8b97ce00c9d028fa36c34150d115f.mp3"
+  },
+  {
+    "name": "Take Me on Your Next Adventure! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_take_me_on_your_next_adventure_motio/take_me_on_your_next_a/main.vmd",
+    "partnerMotionFile": "creators/mei_take_me_on_your_next_adventure_motio/take_me_on_your_next_a/main.vmd",
+    "camMotionFile": "creators/mei_take_me_on_your_next_adventure_motio/take_me_on_your_next_a/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/7880eb0b4c5e5faaed241e504130874955add1c4.mp3"
+  },
+  {
+    "name": "Tap Tap - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_tap_tap_motion_mei/tap_tap_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_tap_tap_motion_mei/tap_tap_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/0f89f40032e80f4bbbd67e35d61d45099596cb48.mp3"
+  },
+  {
+    "name": "The Rarest Thing in The World (P.2) - Motion (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_the_rarest_thing_in_the_world_p_2_mo/the_rarest_thing_in_th/main.vmd",
+    "partnerMotionFile": "creators/mei_the_rarest_thing_in_the_world_p_2_mo/the_rarest_thing_in_th/partner.vmd",
+    "camMotionFile": "creators/mei_the_rarest_thing_in_the_world_p_2_mo/the_rarest_thing_in_th/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4af1158cf4bfe5b0c7a333a65e3a7d92f522195a.mp3"
+  },
+  {
+    "name": "The Rarest Thing in The World (P.2) - Motion (3)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_the_rarest_thing_in_the_world_p_2_mo/the_rarest_thing_in_th/main_2.vmd",
+    "camMotionFile": "creators/mei_the_rarest_thing_in_the_world_p_2_mo/the_rarest_thing_in_th/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4af1158cf4bfe5b0c7a333a65e3a7d92f522195a.mp3"
+  },
+  {
+    "name": "TT Remix - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_tt_remix_motion_mei/tt_remix_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_tt_remix_motion_mei/tt_remix_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d4757d8f1eb62b7ced509d8041b983b125aadc7c.mp3"
+  },
+  {
+    "name": "Twerk It - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_twerk_it_motion_mei/twerk_it_motion_mei_/main.vmd",
+    "camMotionFile": "creators/mei_twerk_it_motion_mei/twerk_it_motion_mei_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6299e5646a5cb641dfec77345acff2f5a9e9cc94.mp3"
+  },
+  {
+    "name": "Violin Dance - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_violin_dance_motion/violin_dance_motion/main.vmd",
+    "partnerMotionFile": "creators/mei_violin_dance_motion/violin_dance_motion/partner.vmd",
+    "camMotionFile": "creators/mei_violin_dance_motion/violin_dance_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/684121e2f5d35c2216de59a390bda215c40da0e4.mp3"
+  },
+  {
+    "name": "ViVi Dance Trend! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_vivi_dance_trend_motion/vivi_dance_trend_motio/main.vmd",
+    "camMotionFile": "creators/mei_vivi_dance_trend_motion/vivi_dance_trend_motio/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/06f9b9c982b591738e611c57eb65529a91dc9b65.mp3"
+  },
+  {
+    "name": "WAP Dance Trend! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_wap_dance_trend_motion/wap_dance_trend_motion/main.vmd",
+    "camMotionFile": "creators/mei_wap_dance_trend_motion/wap_dance_trend_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/c49b0514acd60f832a7be5676e3a107388a6763b.mp3"
+  },
+  {
+    "name": "Wednesday Dance - Motion (Mei)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_wednesday_dance_motion_mei/wednesday_dance_motion/main.vmd",
+    "camMotionFile": "creators/mei_wednesday_dance_motion_mei/wednesday_dance_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/67e5b6bfdcd96f057651035a8549cb7dc93eb060.mp3"
+  },
+  {
+    "name": "When 2022 is Tomorrow! - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_when_2022_is_tomorrow_motion/when_2022_is_tomorrow_/main.vmd",
+    "camMotionFile": "creators/mei_when_2022_is_tomorrow_motion/when_2022_is_tomorrow_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/bb87dfc339865c9d6729d9e790a6d4cb4b81ad89.mp3"
+  },
+  {
+    "name": "Woman - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_woman_motion/woman_motion/main.vmd",
+    "camMotionFile": "creators/mei_woman_motion/woman_motion/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/8b28b100a508aa89b1f539025eee1cb97ff1e019.mp3"
+  },
+  {
+    "name": "Work Dance Trend - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_work_dance_trend_motion/work_dance_trend_motio/main.vmd",
+    "camMotionFile": "creators/mei_work_dance_trend_motion/work_dance_trend_motio/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/3dc72a0ed85d92dccfa2f658f5855e446eb6b0c9.mp3"
+  },
+  {
+    "name": "You look like the B - Motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/mei_you_look_like_the_b_motion/you_look_like_the_b_mo/main.vmd",
+    "camMotionFile": "creators/mei_you_look_like_the_b_motion/you_look_like_the_b_mo/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/8788f633fab0316660906a61dcabdcde527733ae.mp3"
+  },
+  {
+    "name": "Dancin By MitsuloveChan",
+    "group": "Creators",
+    "modelMotionFile": "creators/mitsulovechan_dancin_by_mitsulovechan/dancin_by_mitsulovecha/main.vmd",
+    "camMotionFile": "creators/mitsulovechan_dancin_by_mitsulovechan/dancin_by_mitsulovecha/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1273462a35855180e32c76a0bed1d2f2d3cc0178.mp3"
+  },
+  {
+    "name": "Symphony By MitsuloveChan",
+    "group": "Creators",
+    "modelMotionFile": "creators/mitsulovechan_symphony_by_mitsulovechan/symphony_by_mitsulovec/main.vmd",
+    "camMotionFile": "creators/mitsulovechan_symphony_by_mitsulovechan/symphony_by_mitsulovec/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/e403d588b4c64acad05937431a4267a437ae27e1.mp3"
+  },
+  {
+    "name": "AOA - Miniskirt (Queendom ver.) (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver/aoa_miniskirt_queendom/main.vmd",
+    "partnerMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver/aoa_miniskirt_queendom/partner.vmd",
+    "camMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver/aoa_miniskirt_queendom/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+  },
+  {
+    "name": "Motion in separate parts",
+    "group": "Creators",
+    "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver_mo/motion_in_separate_par/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+  },
+  {
+    "name": "Motion in separate parts - Miniskirt 2.04 - 2.39 (min)",
+    "group": "Creators",
+    "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver_mo/motion_in_separate_par/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+  },
+  {
+    "name": "Motion in separate parts - Miniskirt 1.21 - 1.48 (min)",
+    "group": "Creators",
+    "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver_mo/motion_in_separate_par/main_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+  },
+  {
+    "name": "Motion in separate parts - Miniskirt 2.39 - 3.14 (min)",
+    "group": "Creators",
+    "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver_mo/motion_in_separate_par/main_4.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+  },
+  {
+    "name": "IU - YOU_I by Nicsan",
+    "group": "Creators",
+    "modelMotionFile": "creators/nicsan_iu_you_i_by_nicsan/iu_you_i_by_nicsan/main.vmd",
+    "camMotionFile": "creators/nicsan_iu_you_i_by_nicsan/iu_you_i_by_nicsan/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1455ee1bdb28ee9aece9ed975aa78dd150fa4841.mp3"
+  },
+  {
+    "name": "TWICE - FANCY_FULL_EDIT_Nicsan",
+    "group": "Creators",
+    "modelMotionFile": "creators/nicsan_twice_fancy_full_edit_nicsan/twice_fancy_full_edit_/main.vmd",
+    "camMotionFile": "creators/nicsan_twice_fancy_full_edit_nicsan/twice_fancy_full_edit_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f15ce0b75adb54a496f2949e6facc06e3f7f4e93.mp3"
+  },
+  {
+    "name": "Aespa - Spicy (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/nikisa_san_aespa_spicy/aespa_spicy_1_2_/main.vmd",
+    "partnerMotionFile": "creators/nikisa_san_aespa_spicy/aespa_spicy_1_2_/partner.vmd",
+    "camMotionFile": "creators/nikisa_san_aespa_spicy/aespa_spicy_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/33b7b2991b5cdf377091046f27c36515be9d2175.mp3"
+  },
+  {
+    "name": "Solo ver",
+    "group": "Creators",
+    "modelMotionFile": "creators/nikisa_san_aespa_spicy_solo_ver/solo_ver/main.vmd",
+    "camMotionFile": "creators/nikisa_san_aespa_spicy_solo_ver/solo_ver/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/33b7b2991b5cdf377091046f27c36515be9d2175.mp3"
+  },
+  {
+    "name": "JISOO - FLOWER",
+    "group": "Creators",
+    "modelMotionFile": "creators/nikisa_san_jisoo_flower/jisoo_flower/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/135ee4c13f389b534a59f7bd373e6dd94bb273a7.mp3"
+  },
+  {
+    "name": "Extra models (left + right)",
+    "group": "Creators",
+    "modelMotionFile": "creators/nikisa_san_jisoo_flower_extra_models/extra_models_left_righ/main.vmd",
+    "partnerMotionFile": "creators/nikisa_san_jisoo_flower_extra_models/extra_models_left_righ/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/135ee4c13f389b534a59f7bd373e6dd94bb273a7.mp3"
+  },
+  {
+    "name": "NewJeans - Ditto",
+    "group": "Creators",
+    "modelMotionFile": "creators/nikisa_san_newjeans_ditto/newjeans_ditto/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1123e3b66080196c0e5499dbf42e64d0266dfce3.mp3"
+  },
+  {
+    "name": "NewJeans - Ditto - [1998 ver.] Ditto - Motion 1 (Nikisa San)",
+    "group": "Creators",
+    "modelMotionFile": "creators/nikisa_san_newjeans_ditto/newjeans_ditto_1998_ve/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1123e3b66080196c0e5499dbf42e64d0266dfce3.mp3"
+  },
+  {
+    "name": "NewJeans - Ditto - Ditto - Motion 2 (Nikisa San)",
+    "group": "Creators",
+    "modelMotionFile": "creators/nikisa_san_newjeans_ditto/newjeans_ditto_ditto_m/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1123e3b66080196c0e5499dbf42e64d0266dfce3.mp3"
+  },
+  {
+    "name": "Solo ver (1998+2022)",
+    "group": "Creators",
+    "modelMotionFile": "creators/nikisa_san_newjeans_ditto_solo_ver/solo_ver_1998_2022_/main.vmd",
+    "partnerMotionFile": "creators/nikisa_san_newjeans_ditto_solo_ver/solo_ver_1998_2022_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1123e3b66080196c0e5499dbf42e64d0266dfce3.mp3"
+  },
+  {
+    "name": "Rockabye (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/nikisa_san_rockabye/rockabye_1_2_/main.vmd",
+    "partnerMotionFile": "creators/nikisa_san_rockabye/rockabye_1_2_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6e355b40be7b3d296a3798e8909f20d238731c05.mp3"
+  },
+  {
+    "name": "1 Model Ver",
+    "group": "Creators",
+    "modelMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/1_model_ver/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/c0a5bbeb24683218696638065d359563bb4c2627.mp3"
+  },
+  {
+    "name": "1 Model Ver - Center (PARTIAL KEY)",
+    "group": "Creators",
+    "modelMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/1_model_ver_center_par/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/c0a5bbeb24683218696638065d359563bb4c2627.mp3"
+  },
+  {
+    "name": "5 Model Ver",
+    "group": "Creators",
+    "modelMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/5_model_ver/main.vmd",
+    "camMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/5_model_ver/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/c0a5bbeb24683218696638065d359563bb4c2627.mp3"
+  },
+  {
+    "name": "5 Model Ver - JINNY",
+    "group": "Creators",
+    "modelMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/5_model_ver_jinny/main.vmd",
+    "camMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/5_model_ver/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/c0a5bbeb24683218696638065d359563bb4c2627.mp3"
+  },
+  {
+    "name": "5 Model Ver - LEA",
+    "group": "Creators",
+    "modelMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/5_model_ver_lea/main.vmd",
+    "camMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/5_model_ver/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/c0a5bbeb24683218696638065d359563bb4c2627.mp3"
+  },
+  {
+    "name": "5 Model Ver - SOODAM",
+    "group": "Creators",
+    "modelMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/5_model_ver_soodam/main.vmd",
+    "camMotionFile": "creators/pajamaje135_who_dis_motion_by_pajamaje13/5_model_ver/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/c0a5bbeb24683218696638065d359563bb4c2627.mp3"
+  },
+  {
+    "name": "Aespa - Next Level 합본",
+    "group": "Creators",
+    "modelMotionFile": "creators/petit_chat_kawaii_aespa_next_level/aespa_next_level_/main.vmd",
+    "camMotionFile": "creators/petit_chat_kawaii_aespa_next_level/aespa_next_level_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/e2de617245357334be7759ae35c8f3697ee80f5b.mp3"
+  },
+  {
+    "name": "BLACKPINK - 'How You Like That'",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_blackpink_how_you_like_that_b/blackpink_how_you_like/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/06787cc07bea1163c15748ed6fd09f795cb7194c.mp3"
+  },
+  {
+    "name": "bts fire",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_bts_fire_bts_fire/bts_fire/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a51a244b85c6017a380dcaa2b7109cf0ff879bf0.mp3"
+  },
+  {
+    "name": "chken",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_chicken_chicken_chken/chken/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/31c2dfab4c2c6411319dbeacd3cd9724f5b0c545.mp3"
+  },
+  {
+    "name": "Chung Ha - Stay Tonight",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_chung_ha_stay_tonight_chung_h/chung_ha_stay_tonight/main.vmd",
+    "camMotionFile": "creators/puchy_pury_chung_ha_stay_tonight_chung_h/chung_ha_stay_tonight/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/00fd41cb7945988ca287b865d90f2bd678471b1c.mp3"
+  },
+  {
+    "name": "commission",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_commission_commission/commission/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6148ddd99c617b0c1481801ad316df7830a80e78.mp3"
+  },
+  {
+    "name": "commission 5",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_commission_5_commission_5/commission_5/main.vmd",
+    "camMotionFile": "creators/puchy_pury_commission_5_commission_5/commission_5/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/b301cdd8da7b0a4e90bcc838adc5f3c0c83f9c04.mp3"
+  },
+  {
+    "name": "dolphin - soobin",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_dolphin_dolphin/dolphin_soobin/main.vmd",
+    "camMotionFile": "creators/puchy_pury_dolphin_dolphin/dolphin_soobin/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/369fda2f9620b760695317f499cbb090074a9268.mp3"
+  },
+  {
+    "name": "dumdi dumdi",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_dumdi_dumdi_dumdi_dumdi/dumdi_dumdi/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/84d10d0d8ed26487bea8dcbbfc88b9f4558e2422.mp3"
+  },
+  {
+    "name": "eclipse",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_eclise_motion_y_stages_eclise/eclipse/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/846aae959aee442f2266941c5155fbf509d3a90b.mp3"
+  },
+  {
+    "name": "eclipse - not tda",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_eclise_motion_y_stages_eclise/eclipse_not_tda/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/846aae959aee442f2266941c5155fbf509d3a90b.mp3"
+  },
+  {
+    "name": "HOLYDAYS SHORT",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_holydays_short_holydays_short/holydays_short/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/06d5554583a07042deb3e924a076f8131fcc1748.mp3"
+  },
+  {
+    "name": "HOLYDAYS SHORT - SHORT HAKU VER 1",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_holydays_short_holydays_short/holydays_short_short_h/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/06d5554583a07042deb3e924a076f8131fcc1748.mp3"
+  },
+  {
+    "name": "karbombbom",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_karbombbom_karbombbom/karbombbom/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/94c8ea374f638d3bf98dbca5ad312dc285d90ac0.mp3"
+  },
+  {
+    "name": "karbombbom - HAKU",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_karbombbom_karbombbom/karbombbom_haku/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/94c8ea374f638d3bf98dbca5ad312dc285d90ac0.mp3"
+  },
+  {
+    "name": "lalisa motion by puchy pury (DANDELION ESTUDIO))",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_lalisa_motion_by_puchy_pury_d/lalisa_motion_by_puchy/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ecb085d571b5b334d79ebb846d75dfca92616b01.mp3"
+  },
+  {
+    "name": "not shy",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_not_shy_not_shy/not_shy/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/acb1ed1e2fcdc305d03d7ed3483f576ac4a2a675.mp3"
+  },
+  {
+    "name": "one way",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_one_way_one_way/one_way/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/0a6d0eb68f0d392c0028ecf1bfb8b7da86c101fb.mp3"
+  },
+  {
+    "name": "sunmi tail",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_sunmi_tail_sunmi_tail/sunmi_tail/main.vmd",
+    "camMotionFile": "creators/puchy_pury_sunmi_tail_sunmi_tail/sunmi_tail/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d914065927d2be26f97305951ca69433a1ca6995.mp3"
+  },
+  {
+    "name": "trouble maker - haku",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_trouble_maker_trouble_maker_t/trouble_maker_haku/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f45f397fc088a273549e6b8d1480cee433a5c47e.mp3"
+  },
+  {
+    "name": "vampire miku",
+    "group": "Creators",
+    "modelMotionFile": "creators/puchy_pury_vampire_miku_vampire_miku/vampire_miku/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/19d56b6c8a03435865154b3f121cfc240c5a13e2.mp3"
+  },
+  {
+    "name": "MMD NAYEON POP By Ren",
+    "group": "Creators",
+    "modelMotionFile": "creators/ren_mmd_nayeon_pop_by_ren/mmd_nayeon_pop_by_ren/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f9af13237df7ab6920107017c917f050837f33db.mp3"
+  },
+  {
+    "name": "TAMBOY",
+    "group": "Creators",
+    "modelMotionFile": "creators/ren_tamboy/tamboy/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/bb486556e37da3c2ee009f64b1309d0d40a3a967.mp3"
+  },
+  {
+    "name": "[MMD] GIRL-CRUSH - Oppa, Do you trust me by Ren",
+    "group": "Creators",
+    "modelMotionFile": "creators/ren_mmd_girl_crush_oppa_do_you_trust_me_/_mmd_girl_crush_oppa_d/main.vmd",
+    "camMotionFile": "creators/ren_mmd_girl_crush_oppa_do_you_trust_me_/_mmd_girl_crush_oppa_d/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/71e1e8139cfd8888390e2d77a19ad16cafa14776.mp3"
+  },
+  {
+    "name": "Hip Sway Dance Motion+Camera by RituPepper",
+    "group": "Creators",
+    "modelMotionFile": "creators/ritupepper_hip_sway_dance_motion_camera_/hip_sway_dance_motion_/main.vmd",
+    "camMotionFile": "creators/ritupepper_hip_sway_dance_motion_camera_/hip_sway_dance_motion_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/21dce5f5af09e92ecd5b49aac15e009c148a43af.mp3"
+  },
+  {
+    "name": "KDA - VILLAIN [RoseberriiVR]",
+    "group": "Creators",
+    "modelMotionFile": "creators/roseberriivr_kda_villain_roseberriivr_kd/kda_villain_roseberrii/main.vmd",
+    "camMotionFile": "creators/roseberriivr_kda_villain_roseberriivr_kd/kda_villain_roseberrii/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/e9e39b825b3bcdccaa6616f772f0371cd02e0ed1.mp3"
+  },
+  {
+    "name": "AOA - Like a Cat",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_aoa_like_a_cat/aoa_like_a_cat/main.vmd",
+    "camMotionFile": "creators/sewelina_aoa_like_a_cat/aoa_like_a_cat/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/28a75c4ebdc04302ca0a9a49340da3ecab14af48.mp3"
+  },
+  {
+    "name": "AOA - Like a Cat - Like a Cat motion by † Fairy Tale †",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_aoa_like_a_cat/aoa_like_a_cat_like_a_/main.vmd",
+    "camMotionFile": "creators/sewelina_aoa_like_a_cat/aoa_like_a_cat/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/28a75c4ebdc04302ca0a9a49340da3ecab14af48.mp3"
+  },
+  {
+    "name": "AOA - like a cat by Sewelina_EDIT",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_aoa_like_a_cat_by_sewelina_edit/aoa_like_a_cat_by_sewe/main.vmd",
+    "camMotionFile": "creators/sewelina_aoa_like_a_cat_by_sewelina_edit/aoa_like_a_cat_by_sewe/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4460d3660ecb23344a7227d3b1a828e0b34ea2a1.mp3"
+  },
+  {
+    "name": "Apink - CHOBOM - Copycat by Sewelina (Full) (1+2)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_apink_chobom_copycat_by_sewelin/apink_chobom_copycat_b/main.vmd",
+    "partnerMotionFile": "creators/sewelina_apink_chobom_copycat_by_sewelin/apink_chobom_copycat_b/partner.vmd",
+    "camMotionFile": "creators/sewelina_apink_chobom_copycat_by_sewelin/apink_chobom_copycat_b/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a8d5947e01d24f49f8813793cf4c312697c6abbf.mp3"
+  },
+  {
+    "name": "Apink - Dumhdurum by Sewelina (Full)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_apink_dumhdurum_by_sewelina_ful/apink_dumhdurum_by_sew/main.vmd",
+    "camMotionFile": "creators/sewelina_apink_dumhdurum_by_sewelina_ful/apink_dumhdurum_by_sew/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1899caa872899d0e69a8b8db18613e2c495c26b5.mp3"
+  },
+  {
+    "name": "Apink - Dumhdurum by Sewelina (Full) - motion fix model Miku",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_apink_dumhdurum_by_sewelina_ful/apink_dumhdurum_by_sew/main_2.vmd",
+    "camMotionFile": "creators/sewelina_apink_dumhdurum_by_sewelina_ful/apink_dumhdurum_by_sew/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1899caa872899d0e69a8b8db18613e2c495c26b5.mp3"
+  },
+  {
+    "name": "Apink-Dumhdurum by Sewelina (Short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_apink_dumhdurum_by_sewelina_sho/apink_dumhdurum_by_sew/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/1899caa872899d0e69a8b8db18613e2c495c26b5.mp3"
+  },
+  {
+    "name": "BoA - Woman by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_boa_woman_by_sewelina_boa_woman/boa_woman_by_sewelina/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2787760cbe927f73dd8711824564e656fa842bb9.mp3"
+  },
+  {
+    "name": "BoA - Woman by Sewelina - motion fix. model Miku",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_boa_woman_by_sewelina_boa_woman/boa_woman_by_sewelina_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2787760cbe927f73dd8711824564e656fa842bb9.mp3"
+  },
+  {
+    "name": "BBC by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_bon_bon_chocolat_by_sewelina_sh/bbc_by_sewelina/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/0ffd021137cde217aab4e8164297c022ad240264.mp3"
+  },
+  {
+    "name": "Cherry Bullet - Hands Up by Sewelina (Full)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_cherry_bullet_hands_up_by_sewel/cherry_bullet_hands_up/main.vmd",
+    "camMotionFile": "creators/sewelina_cherry_bullet_hands_up_by_sewel/cherry_bullet_hands_up/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/35fa7ea567193c5c51ae752113dd26b34ed05924.mp3"
+  },
+  {
+    "name": "Cherry Bullet - Hands Up by Sewelina (Full) - motion fix. model Miku",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_cherry_bullet_hands_up_by_sewel/cherry_bullet_hands_up/main_2.vmd",
+    "camMotionFile": "creators/sewelina_cherry_bullet_hands_up_by_sewel/cherry_bullet_hands_up/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/35fa7ea567193c5c51ae752113dd26b34ed05924.mp3"
+  },
+  {
+    "name": "CHUNG HA - Chica by Sewelina (Full ver)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_chung_ha_chica_by_sewelina_full/chung_ha_chica_by_sewe/main.vmd",
+    "camMotionFile": "creators/sewelina_chung_ha_chica_by_sewelina_full/chung_ha_chica_by_sewe/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/359f3dd4f7aa6db965f2a7bb9aabce7cbabba2d6.mp3"
+  },
+  {
+    "name": "ENHYPEN - Drunk-Dazed by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_enhypen_drunk_dazed_by_sewelina/enhypen_drunk_dazed_by/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/77fc86b08488616ff892df6cf359b9a1f38efa1f.mp3"
+  },
+  {
+    "name": "GFRIEND-MAGO by Sewelina (Full)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_gfriend_mago_by_sewelina_full/gfriend_mago_by_seweli/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2bc4480b80fe6d7dba3a0a566fd4866db0889dcd.mp3"
+  },
+  {
+    "name": "GFRIEND-MAGO by Sewelina (Full) - motion fix. model Miku",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_gfriend_mago_by_sewelina_full/gfriend_mago_by_seweli/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/2bc4480b80fe6d7dba3a0a566fd4866db0889dcd.mp3"
+  },
+  {
+    "name": "HELLOVENUS-Im ill by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_hellovenus_i_m_ill_by_sewelina_/hellovenus_im_ill_by_s/main.vmd",
+    "camMotionFile": "creators/sewelina_hellovenus_i_m_ill_by_sewelina_/hellovenus_im_ill_by_s/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/8151e841ceb0cfc0034d34180dc68e98f1dc26ac.mp3"
+  },
+  {
+    "name": "LISA - MONEY by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_lisa_money_by_sewelina_lisa_mon/lisa_money_by_sewelina/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/af74be63a5f5c73c0b4e43007867327e2de39726.mp3"
+  },
+  {
+    "name": "LISA - MONEY by Sewelina - motion fix. model Miku",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_lisa_money_by_sewelina_lisa_mon/lisa_money_by_sewelina/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/af74be63a5f5c73c0b4e43007867327e2de39726.mp3"
+  },
+  {
+    "name": "NO ONE by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_no_one_by_sewelina/no_one_by_sewelina/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/4365fab30d31de8df679e53e9527fd4a0289754b.mp3"
+  },
+  {
+    "name": "PinkFantasy - Tales of the Unusual by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_pinkfantasy_tales_of_the_unusua/pinkfantasy_tales_of_t/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9b6ed4b39419746b293784bc91769c6ce2f5e486.mp3"
+  },
+  {
+    "name": "Red Velvet-Sunny Side Up by Sewelina(Short ver)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_red_velvet_sunny_side_up_by_sew/red_velvet_sunny_side_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6a82f324f12d589ca29a4f0af46aa0c074947647.mp3"
+  },
+  {
+    "name": "Red Velvet-Sunny Side Up by Sewelina(Full ver)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_red_velvet_sunny_side_up_by_sew/red_velvet_sunny_side_/main_2.vmd",
+    "camMotionFile": "creators/sewelina_red_velvet_sunny_side_up_by_sew/red_velvet_sunny_side_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6a82f324f12d589ca29a4f0af46aa0c074947647.mp3"
+  },
+  {
+    "name": "SISTAR - Give It To Me by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_sistar_give_it_to_me_by_sewelin/sistar_give_it_to_me_b/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/275962d170ebd2afbc3d1aa8f5ab6462a91a48b1.mp3"
+  },
+  {
+    "name": "Stray Kids - CASE 143 Challenge by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_stray_kids_case_143_challenge_b/stray_kids_case_143_ch/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/12ec234af4dc4304e79da84e2c3ce830df89ce26.mp3"
+  },
+  {
+    "name": "Stray Kids - Maniac by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_stray_kids_maniac_by_sewelina_s/stray_kids_maniac_by_s/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ef8aafc05ea8b4eca0d203aac8c3149268ad1315.mp3"
+  },
+  {
+    "name": "T-ARA - Take a hike by Sewelina (full)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_t_ara_take_a_hike_by_sewelina_f/t_ara_take_a_hike_by_s/main.vmd",
+    "camMotionFile": "creators/sewelina_t_ara_take_a_hike_by_sewelina_f/t_ara_take_a_hike_by_s/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/03b4dc2941a8b971c88248d107b2936c9d987e65.mp3"
+  },
+  {
+    "name": "T-ara - You Drive Me Crazy by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_t_ara_you_drive_me_crazy_by_sew/t_ara_you_drive_me_cra/main.vmd",
+    "camMotionFile": "creators/sewelina_t_ara_you_drive_me_crazy_by_sew/t_ara_you_drive_me_cra/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/53ae810e9209a06cfa592d66e019e4d4508895ad.mp3"
+  },
+  {
+    "name": "T-ara - You Drive Me Crazy by Sewelina - motion fix. model Miku",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_t_ara_you_drive_me_crazy_by_sew/t_ara_you_drive_me_cra/main_2.vmd",
+    "camMotionFile": "creators/sewelina_t_ara_you_drive_me_crazy_by_sew/t_ara_you_drive_me_cra/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/53ae810e9209a06cfa592d66e019e4d4508895ad.mp3"
+  },
+  {
+    "name": "T-ARA- TIKI TAKA by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_t_ara_tiki_taka_by_sewelina_t_a/t_ara_tiki_taka_by_sew/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ff1ee72cc6dc3dd246cf3f60589584dbe50398d3.mp3"
+  },
+  {
+    "name": "T-ARA- TIKI TAKA by Sewelina - motion fix. model Miku",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_t_ara_tiki_taka_by_sewelina_t_a/t_ara_tiki_taka_by_sew/main_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/ff1ee72cc6dc3dd246cf3f60589584dbe50398d3.mp3"
+  },
+  {
+    "name": "Take a hike by Sewelina (short)",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_take_a_hike_by_sewelina_short_t/take_a_hike_by_sewelin/main.vmd",
+    "camMotionFile": "creators/sewelina_take_a_hike_by_sewelina_short_t/take_a_hike_by_sewelin/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/03b4dc2941a8b971c88248d107b2936c9d987e65.mp3"
+  },
+  {
+    "name": "TWICE-Feel Special by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_twice_feel_special_by_sewelina/twice_feel_special_by_/main.vmd",
+    "camMotionFile": "creators/sewelina_twice_feel_special_by_sewelina/twice_feel_special_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/41cd6ccb304a8733adc3cd7341c8e07723e853a6.mp3"
+  },
+  {
+    "name": "uh_oh by Sewelina",
+    "group": "Creators",
+    "modelMotionFile": "creators/sewelina_uh_oh_by_sewelina_uh_oh_by_sewe/uh_oh_by_sewelina/main.vmd",
+    "camMotionFile": "creators/sewelina_uh_oh_by_sewelina_uh_oh_by_sewe/uh_oh_by_sewelina/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/6960b075f98b97e7e10c8b2e6a7e72d1cf7d7c0e.mp3"
+  },
+  {
+    "name": "Ado - show (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_ado_show_suka_g/ado_show_suka_g_/main.vmd",
+    "camMotionFile": "creators/suka_g_ado_show_suka_g/ado_show_suka_g_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f8e5c4074a339894ebc0b4ff718e12d130812bc7.mp3"
+  },
+  {
+    "name": "Ado - show (suka_g) - main",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_ado_show_suka_g/ado_show_suka_g_main/main.vmd",
+    "camMotionFile": "creators/suka_g_ado_show_suka_g/ado_show_suka_g_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f8e5c4074a339894ebc0b4ff718e12d130812bc7.mp3"
+  },
+  {
+    "name": "Ahegao Bemax Challenge (sukaretto g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_ahegao_bemax_challenge_sukaretto_/ahegao_bemax_challenge/main.vmd",
+    "camMotionFile": "creators/suka_g_ahegao_bemax_challenge_sukaretto_/ahegao_bemax_challenge/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/08da0b8c6800240147316ac1eb8227b63a346296.mp3"
+  },
+  {
+    "name": "baby  you challenge (Suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_baby_you_challenge_suka_g/baby_you_challenge_suk/main.vmd",
+    "camMotionFile": "creators/suka_g_baby_you_challenge_suka_g/baby_you_challenge_suk/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/cec1884d2b717fa18a5d311ba137d2b57361747d.mp3"
+  },
+  {
+    "name": "boys a liar challenge (Suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_boys_a_liar_challenge_suka_g/boys_a_liar_challenge_/main.vmd",
+    "camMotionFile": "creators/suka_g_boys_a_liar_challenge_suka_g/boys_a_liar_challenge_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/823d2815a4efca103a14bbc828a3a06bacb60021.mp3"
+  },
+  {
+    "name": "Bundles x Boom Pow (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_bundles_x_boom_pow_suka_g/bundles_x_boom_pow_suk/main.vmd",
+    "camMotionFile": "creators/suka_g_bundles_x_boom_pow_suka_g/bundles_x_boom_pow_suk/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/643c2fef04fbb4deacf7d72a31d692f6ce01d7d2.mp3"
+  },
+  {
+    "name": "Bundles x Boom Pow (suka_g) - main",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_bundles_x_boom_pow_suka_g/bundles_x_boom_pow_suk/main_2.vmd",
+    "camMotionFile": "creators/suka_g_bundles_x_boom_pow_suka_g/bundles_x_boom_pow_suk/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/643c2fef04fbb4deacf7d72a31d692f6ce01d7d2.mp3"
+  },
+  {
+    "name": "cure for me challenge (sukaretto Gonzales)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_cure_for_me_challenge_sukaretto_g/cure_for_me_challenge_/main.vmd",
+    "camMotionFile": "creators/suka_g_cure_for_me_challenge_sukaretto_g/cure_for_me_challenge_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f3d286dabf38fc67432c8e02219524b98f008d9b.mp3"
+  },
+  {
+    "name": "DearCupidChallenge (sukarettogonzales)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_dearcupidchallenge_sukarettogonza/dearcupidchallenge_suk/main.vmd",
+    "camMotionFile": "creators/suka_g_dearcupidchallenge_sukarettogonza/dearcupidchallenge_suk/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/948cb8ad8ed24aa7b14fad3064896cf8a2cf3a8f.mp3"
+  },
+  {
+    "name": "Ela Ja Ta Louca x Play With Fire - ARNEL REMIX (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_ela_ja_ta_louca_x_play_with_fire_/ela_ja_ta_louca_x_play/main.vmd",
+    "camMotionFile": "creators/suka_g_ela_ja_ta_louca_x_play_with_fire_/ela_ja_ta_louca_x_play/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9e9bc1afd8f410602c06bf78072d8e84a5c6d2b2.mp3"
+  },
+  {
+    "name": "face nu'est remix challenge (sukaretto_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_face_nu_est_remix_challenge_sukar/face_nu_est_remix_chal/main.vmd",
+    "camMotionFile": "creators/suka_g_face_nu_est_remix_challenge_sukar/face_nu_est_remix_chal/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/c3b4b9e8763eec1fc497fac7efba3a84e98f1da3.mp3"
+  },
+  {
+    "name": "Gambare Gambare Senpai dance (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_gambare_gambare_senpai_dance_suka/gambare_gambare_senpai/main.vmd",
+    "camMotionFile": "creators/suka_g_gambare_gambare_senpai_dance_suka/gambare_gambare_senpai/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/28aff5a0c17701ebd797404035bf83fc32fd6c71.mp3"
+  },
+  {
+    "name": "Gambare Gambare Senpai dance (suka_g) - main",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_gambare_gambare_senpai_dance_suka/gambare_gambare_senpai/main_2.vmd",
+    "camMotionFile": "creators/suka_g_gambare_gambare_senpai_dance_suka/gambare_gambare_senpai/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/28aff5a0c17701ebd797404035bf83fc32fd6c71.mp3"
+  },
+  {
+    "name": "Hundred Miles challenge (sukaretto_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_hundred_miles_challenge_sukaretto/hundred_miles_challeng/main.vmd",
+    "camMotionFile": "creators/suka_g_hundred_miles_challenge_sukaretto/hundred_miles_challeng/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f43220c187c02b424d4f524bbd9a70f2fdfb40f4.mp3"
+  },
+  {
+    "name": "Hundred Miles challenge (sukaretto_g) - main",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_hundred_miles_challenge_sukaretto/hundred_miles_challeng/main_2.vmd",
+    "camMotionFile": "creators/suka_g_hundred_miles_challenge_sukaretto/hundred_miles_challeng/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f43220c187c02b424d4f524bbd9a70f2fdfb40f4.mp3"
+  },
+  {
+    "name": "Just Dance trend (sukaretto gonzales)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_just_dance_trend_sukaretto_gonzal/just_dance_trend_sukar/main.vmd",
+    "partnerMotionFile": "creators/suka_g_just_dance_trend_sukaretto_gonzal/just_dance_trend_sukar/main.vmd",
+    "camMotionFile": "creators/suka_g_just_dance_trend_sukaretto_gonzal/just_dance_trend_sukar/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/369f2be61ee134c5e0d76bcd91a50c34f392ff52.mp3"
+  },
+  {
+    "name": "KIM SEJEONG ‘Top or Cliff' short (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_kim_sejeong_top_or_cliff_short_su/kim_sejeong_top_or_cli/main.vmd",
+    "camMotionFile": "creators/suka_g_kim_sejeong_top_or_cliff_short_su/kim_sejeong_top_or_cli/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f285ef078c9580ff109e747e0a74ed9516654f8c.mp3"
+  },
+  {
+    "name": "KIM SEJEONG ‘Top or Cliff' short (suka_g) - Main",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_kim_sejeong_top_or_cliff_short_su/kim_sejeong_top_or_cli/main_2.vmd",
+    "camMotionFile": "creators/suka_g_kim_sejeong_top_or_cliff_short_su/kim_sejeong_top_or_cli/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/f285ef078c9580ff109e747e0a74ed9516654f8c.mp3"
+  },
+  {
+    "name": "Night Dancer (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_night_dancer_suka_g/night_dancer_suka_g_/main.vmd",
+    "camMotionFile": "creators/suka_g_night_dancer_suka_g/night_dancer_suka_g_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/04dcf2c257c87dc3b26bd1608d8066058732f550.mp3"
+  },
+  {
+    "name": "No way - tiktok trend (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_no_way_tiktok_trend_suka_g/no_way_tiktok_trend_su/main.vmd",
+    "camMotionFile": "creators/suka_g_no_way_tiktok_trend_suka_g/no_way_tiktok_trend_su/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/72020b81c8b4c02b03fb89bb5d51caf9c2a38a30.mp3"
+  },
+  {
+    "name": "Paint the town red challenge (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_paint_the_town_red_challenge_suka/paint_the_town_red_cha/main.vmd",
+    "camMotionFile": "creators/suka_g_paint_the_town_red_challenge_suka/paint_the_town_red_cha/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/113ae52c0faf5ff38bea73a3dd1adb9ab864c0c7.mp3"
+  },
+  {
+    "name": "Paint the town red challenge (suka_g) - main",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_paint_the_town_red_challenge_suka/paint_the_town_red_cha/main_2.vmd",
+    "camMotionFile": "creators/suka_g_paint_the_town_red_challenge_suka/paint_the_town_red_cha/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/113ae52c0faf5ff38bea73a3dd1adb9ab864c0c7.mp3"
+  },
+  {
+    "name": "The metal sheet challenge (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_the_metal_sheet_challenge_suka_g/the_metal_sheet_challe/main.vmd",
+    "camMotionFile": "creators/suka_g_the_metal_sheet_challenge_suka_g/the_metal_sheet_challe/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/a07d9f77d182e126273e3e6bdeb5d35c80a04154.mp3"
+  },
+  {
+    "name": "TOMA TOMA trend (suka_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_toma_toma_trend_suka_g/toma_toma_trend_suka_g/main.vmd",
+    "camMotionFile": "creators/suka_g_toma_toma_trend_suka_g/toma_toma_trend_suka_g/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/fdf2d95ccbf74f58d3373b11951038cded8e3e1c.mp3"
+  },
+  {
+    "name": "TOMA TOMA trend (suka_g) - main",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_toma_toma_trend_suka_g/toma_toma_trend_suka_g/main_2.vmd",
+    "camMotionFile": "creators/suka_g_toma_toma_trend_suka_g/toma_toma_trend_suka_g/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/fdf2d95ccbf74f58d3373b11951038cded8e3e1c.mp3"
+  },
+  {
+    "name": "Wakawaka challenge (sukaretto_g)",
+    "group": "Creators",
+    "modelMotionFile": "creators/suka_g_wakawaka_challenge_sukaretto_g/wakawaka_challenge_suk/main.vmd",
+    "camMotionFile": "creators/suka_g_wakawaka_challenge_sukaretto_g/wakawaka_challenge_suk/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/3e38e01e3170a9d83e045cf66d212c42d92ec570.mp3"
+  },
+  {
+    "name": "Envolver - Motion By Teikuma",
+    "group": "Creators",
+    "modelMotionFile": "creators/teikuma_envolver_motion_by_teikuma/envolver_motion_by_tei/main.vmd",
+    "camMotionFile": "creators/teikuma_envolver_motion_by_teikuma/envolver_motion_by_tei/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/758c36ba8acb8afbc5373108e0202b44cd98c9df.mp3"
+  },
+  {
+    "name": "Cossack Dancing meme",
+    "group": "Creators",
+    "modelMotionFile": "creators/ureshiiiiii_cossack_dancing_meme/cossack_dancing_meme/main.vmd",
+    "camMotionFile": "creators/ureshiiiiii_cossack_dancing_meme/cossack_dancing_meme/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/883d0f8354c2faf18515f31768376366d945947b.mp3"
+  },
+  {
+    "name": "Cossack Dancing meme - Shorter person (Bugs Bunny)",
+    "group": "Creators",
+    "modelMotionFile": "creators/ureshiiiiii_cossack_dancing_meme/cossack_dancing_meme_s/main.vmd",
+    "camMotionFile": "creators/ureshiiiiii_cossack_dancing_meme/cossack_dancing_meme/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/883d0f8354c2faf18515f31768376366d945947b.mp3"
+  },
+  {
+    "name": "FRIENDS motion [by ureshiiiiii]",
+    "group": "Creators",
+    "modelMotionFile": "creators/ureshiiiiii_friends_motion_by_ureshiiiii/friends_motion_by_ures/main.vmd",
+    "camMotionFile": "creators/ureshiiiiii_friends_motion_by_ureshiiiii/friends_motion_by_ures/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/93dd8197218ce6f0e13a34a980aa5fc420e3e326.mp3"
+  },
+  {
+    "name": "Hand Clap 【Motion by Ureshiiiiii】",
+    "group": "Creators",
+    "modelMotionFile": "creators/ureshiiiiii_hand_clap_motion_by_ureshiii/hand_clap_motion_by_ur/main.vmd",
+    "camMotionFile": "creators/ureshiiiiii_hand_clap_motion_by_ureshiii/hand_clap_motion_by_ur/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9036b3ab7865a86a7cc91627a27b2a9136b2e193.mp3"
+  },
+  {
+    "name": "Runaway 【Motion by Ureshiiiiii】",
+    "group": "Creators",
+    "modelMotionFile": "creators/ureshiiiiii_runaway_motion_by_ureshiiiii/runaway_motion_by_ures/main.vmd",
+    "camMotionFile": "creators/ureshiiiiii_runaway_motion_by_ureshiiiii/runaway_motion_by_ures/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/3318c49fb6410434cdc483fb9c7822d3a587cf87.mp3"
+  },
+  {
+    "name": "Say My Name 【Motion by Ureshiiiiii】",
+    "group": "Creators",
+    "modelMotionFile": "creators/ureshiiiiii_say_my_name_motion_by_ureshi/say_my_name_motion_by_/main.vmd",
+    "camMotionFile": "creators/ureshiiiiii_say_my_name_motion_by_ureshi/say_my_name_motion_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/da897c10d4a38c59d54cd916b765aa1bbe37fb59.mp3"
+  },
+  {
+    "name": "Very Nice [motion by ureshiiiiii]",
+    "group": "Creators",
+    "modelMotionFile": "creators/ureshiiiiii_very_nice_motion_by_ureshiii/very_nice_motion_by_ur/main.vmd",
+    "camMotionFile": "creators/ureshiiiiii_very_nice_motion_by_ureshiii/very_nice_motion_by_ur/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/59aa9203343a29e64e13f7651f567e4c0b8bac3e.mp3"
+  },
+  {
+    "name": "Without Me 【Motion by Ureshiiiiii】",
+    "group": "Creators",
+    "modelMotionFile": "creators/ureshiiiiii_without_me_motion_by_ureshii/without_me_motion_by_u/main.vmd",
+    "camMotionFile": "creators/ureshiiiiii_without_me_motion_by_ureshii/without_me_motion_by_u/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/d0111a350a510dc5122034fb10376e2dc58ab8e4.mp3"
+  },
+  {
+    "name": "Party_Tonight_-_Laysha",
+    "group": "Creators",
+    "modelMotionFile": "creators/wolfmuzzle_party_tonight_laysha/party_tonight_laysha/main.vmd",
+    "camMotionFile": "creators/wolfmuzzle_party_tonight_laysha/party_tonight_laysha/camera.vmd"
+  },
+  {
+    "name": "4 Minute Crazy - Long Ver",
+    "group": "Creators",
+    "modelMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/main.vmd",
+    "camMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/camera.vmd"
+  },
+  {
+    "name": "4 Minute Crazy - Long Ver - (long-leg-ver)crazy-motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/main_2.vmd",
+    "camMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/camera.vmd"
+  },
+  {
+    "name": "[MMD] Pop Pop (mf7cli)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mf7cli_mmd_pop_pop_mf7cli/_mmd_pop_pop_mf7cli_/main.vmd",
+    "camMotionFile": "creators/mf7cli_mmd_pop_pop_mf7cli/_mmd_pop_pop_mf7cli_/camera.vmd",
+    "expressionMotionFile": "creators/mf7cli_mmd_pop_pop_mf7cli/_mmd_pop_pop_mf7cli_/expression.vmd"
+  },
+  {
+    "name": "[MMD] Spicy (mf7cli)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mf7cli_mmd_spicy_mf7cli/_mmd_spicy_mf7cli_/main.vmd",
+    "camMotionFile": "creators/mf7cli_mmd_spicy_mf7cli/_mmd_spicy_mf7cli_/camera.vmd",
+    "expressionMotionFile": "creators/mf7cli_mmd_spicy_mf7cli/_mmd_spicy_mf7cli_/expression.vmd"
+  },
+  {
+    "name": "[MMD] Umpah Umpah (Solo ver.) (mf7cli)",
+    "group": "Creators",
+    "modelMotionFile": "creators/mf7cli_mmd_umpah_umpah_solo_ver_mf7cli/_mmd_umpah_umpah_solo_/main.vmd",
+    "camMotionFile": "creators/mf7cli_mmd_umpah_umpah_solo_ver_mf7cli/_mmd_umpah_umpah_solo_/camera.vmd",
+    "expressionMotionFile": "creators/mf7cli_mmd_umpah_umpah_solo_ver_mf7cli/_mmd_umpah_umpah_solo_/expression.vmd"
+  },
+  {
+    "name": "MOMOLAND - BBoom BBoom by vingoo - 黑子專用_motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/vingoo_momoland_bboom_bboom_by_vingoo/momoland_bboom_bboom_b/main.vmd",
+    "camMotionFile": "creators/vingoo_momoland_bboom_bboom_by_vingoo/momoland_bboom_bboom_b/camera.vmd",
+    "expressionMotionFile": "creators/vingoo_momoland_bboom_bboom_by_vingoo/momoland_bboom_bboom_b/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/af39292db61021051a72470852df692e4101aedb.mp3"
+  },
+  {
+    "name": "MOMOLAND - BBoom BBoom by vingoo - TDA_MOTION",
+    "group": "Creators",
+    "modelMotionFile": "creators/vingoo_momoland_bboom_bboom_by_vingoo/momoland_bboom_bboom_b/main_2.vmd",
+    "camMotionFile": "creators/vingoo_momoland_bboom_bboom_by_vingoo/momoland_bboom_bboom_b/camera.vmd",
+    "expressionMotionFile": "creators/vingoo_momoland_bboom_bboom_by_vingoo/momoland_bboom_bboom_b/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/af39292db61021051a72470852df692e4101aedb.mp3"
+  },
+  {
+    "name": "MOMOLAND - BBoom BBoom by vingoo - music_motion",
+    "group": "Creators",
+    "modelMotionFile": "creators/vingoo_momoland_bboom_bboom_by_vingoo/momoland_bboom_bboom_b/main_3.vmd",
+    "camMotionFile": "creators/vingoo_momoland_bboom_bboom_by_vingoo/momoland_bboom_bboom_b/camera.vmd",
+    "expressionMotionFile": "creators/vingoo_momoland_bboom_bboom_by_vingoo/momoland_bboom_bboom_b/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/af39292db61021051a72470852df692e4101aedb.mp3"
+  },
+  {
+    "name": "Diamonds motion by Сатанистка",
+    "group": "Creators",
+    "modelMotionFile": "creators/diamonds_motion_by/diamonds_motion_by_/main.vmd",
+    "camMotionFile": "creators/diamonds_motion_by/diamonds_motion_by_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/45fe7134718cae15ee99834cf3a56e004a1d0cf1.mp3"
+  }
+]
