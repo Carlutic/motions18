@@ -2281,8 +2281,9 @@
   },
   {
     "name": "(G)I-DLE - Queencard",
-    "modelMotionFile": "https://carlutic.github.io/motions18/queencard/Queencard.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions18/queencard/SMOOTH%20Camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions18/queencard/audio.mp3"
+    "modelMotionFile": "queencard/Queencard.vmd",
+    "camMotionFile": "queencard/SMOOTH Camera.vmd",
+    "audioPlayerFile": "queencard/audio.mp3",
+    "group": "Kpop"
   }
 ]
