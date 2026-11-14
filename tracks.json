@@ -171,13 +171,15 @@
     "name": "LE SSERAFIM - _Blue Flame_ by JULI",
     "group": "Creators",
     "modelMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/main.vmd",
-    "camMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/camera.vmd"
+    "camMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/a7890f3f28af66bb.mp3"
   },
   {
     "name": "LE SSERAFIM - _Blue Flame_ by JULI - Motion (Kazuha part)",
     "group": "Creators",
     "modelMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/main_2.vmd",
-    "camMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/camera.vmd"
+    "camMotionFile": "creators/juli_le_sserafim_blue_flame_by_juli/le_sserafim_blue_flame/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/a7890f3f28af66bb.mp3"
   },
   {
     "name": "Crab Rave {by KerryOZ}",
@@ -190,7 +192,8 @@
     "name": "モーション",
     "group": "Creators",
     "modelMotionFile": "creators/kimagure_181105_mmd_i_like_it/_/main.vmd",
-    "camMotionFile": "creators/kimagure_181105_mmd_i_like_it/_/camera.vmd"
+    "camMotionFile": "creators/kimagure_181105_mmd_i_like_it/_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/a563ad95252e5712.mp3"
   },
   {
     "name": "210804 [MMD] Dreamcatcher - BEcause",
@@ -694,13 +697,15 @@
     "group": "Creators",
     "modelMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/main.vmd",
     "partnerMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/partner.vmd",
-    "camMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/camera.vmd"
+    "camMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/c35ca98b507016a9.mp3"
   },
   {
     "name": "KDA - MORE [LadieAlien] (4)",
     "group": "Creators",
     "modelMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_4_/main.vmd",
-    "camMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/camera.vmd"
+    "camMotionFile": "creators/ladiealien_kda_more_ladiealien/kda_more_ladiealien_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/c35ca98b507016a9.mp3"
   },
   {
     "name": "KDA - THE BADDEST [LadieAlien]",
@@ -2209,34 +2214,39 @@
     "name": "4 Minute Crazy - Long Ver",
     "group": "Creators",
     "modelMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/main.vmd",
-    "camMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/camera.vmd"
+    "camMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/8470e318502ee895.mp3"
   },
   {
     "name": "4 Minute Crazy - Long Ver - (long-leg-ver)crazy-motion",
     "group": "Creators",
     "modelMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/main_2.vmd",
-    "camMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/camera.vmd"
+    "camMotionFile": "creators/yukikumerai_4_minute_crazy_long_ver/4_minute_crazy_long_ve/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/8470e318502ee895.mp3"
   },
   {
     "name": "[MMD] Pop Pop (mf7cli)",
     "group": "Creators",
     "modelMotionFile": "creators/mf7cli_mmd_pop_pop_mf7cli/_mmd_pop_pop_mf7cli_/main.vmd",
     "camMotionFile": "creators/mf7cli_mmd_pop_pop_mf7cli/_mmd_pop_pop_mf7cli_/camera.vmd",
-    "expressionMotionFile": "creators/mf7cli_mmd_pop_pop_mf7cli/_mmd_pop_pop_mf7cli_/expression.vmd"
+    "expressionMotionFile": "creators/mf7cli_mmd_pop_pop_mf7cli/_mmd_pop_pop_mf7cli_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/f66bf36f9d72dd22.mp3"
   },
   {
     "name": "[MMD] Spicy (mf7cli)",
     "group": "Creators",
     "modelMotionFile": "creators/mf7cli_mmd_spicy_mf7cli/_mmd_spicy_mf7cli_/main.vmd",
     "camMotionFile": "creators/mf7cli_mmd_spicy_mf7cli/_mmd_spicy_mf7cli_/camera.vmd",
-    "expressionMotionFile": "creators/mf7cli_mmd_spicy_mf7cli/_mmd_spicy_mf7cli_/expression.vmd"
+    "expressionMotionFile": "creators/mf7cli_mmd_spicy_mf7cli/_mmd_spicy_mf7cli_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/f66bf36f9d72dd22.mp3"
   },
   {
     "name": "[MMD] Umpah Umpah (Solo ver.) (mf7cli)",
     "group": "Creators",
     "modelMotionFile": "creators/mf7cli_mmd_umpah_umpah_solo_ver_mf7cli/_mmd_umpah_umpah_solo_/main.vmd",
     "camMotionFile": "creators/mf7cli_mmd_umpah_umpah_solo_ver_mf7cli/_mmd_umpah_umpah_solo_/camera.vmd",
-    "expressionMotionFile": "creators/mf7cli_mmd_umpah_umpah_solo_ver_mf7cli/_mmd_umpah_umpah_solo_/expression.vmd"
+    "expressionMotionFile": "creators/mf7cli_mmd_umpah_umpah_solo_ver_mf7cli/_mmd_umpah_umpah_solo_/expression.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/f66bf36f9d72dd22.mp3"
   },
   {
     "name": "MOMOLAND - BBoom BBoom by vingoo - 黑子專用_motion",
