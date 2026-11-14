@@ -2285,5 +2285,12 @@
     "camMotionFile": "queencard/SMOOTH Camera.vmd",
     "audioPlayerFile": "queencard/audio.mp3",
     "group": "Kpop"
+  },
+  {
+    "name": "(G)I-DLE - Queencard (完整版)",
+    "group": "Kpop",
+    "modelMotionFile": "queencard_v2/QueenCard.vmd",
+    "camMotionFile": "queencard_v2/Queencard_cam.vmd",
+    "audioPlayerFile": "queencard_v2/audio.mp3"
   }
 ]
