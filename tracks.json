@@ -1432,31 +1432,97 @@
     "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver/aoa_miniskirt_queendom/main.vmd",
     "partnerMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver/aoa_miniskirt_queendom/partner.vmd",
     "camMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver/aoa_miniskirt_queendom/camera.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3",
+    "cameraMotions": [
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_2.vmd"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_1.vmd"
+      }
+    ]
   },
   {
     "name": "Motion in separate parts",
     "group": "Creators",
     "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver_mo/motion_in_separate_par/main.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions18/"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "Motion in separate parts - Miniskirt 2.04 - 2.39 (min)",
     "group": "Creators",
     "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver_mo/motion_in_separate_par/main_2.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions18/"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "Motion in separate parts - Miniskirt 1.21 - 1.48 (min)",
     "group": "Creators",
     "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver_mo/motion_in_separate_par/main_3.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions18/"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "Motion in separate parts - Miniskirt 2.39 - 3.14 (min)",
     "group": "Creators",
     "modelMotionFile": "creators/natsumisan_aoa_miniskirt_queendom_ver_mo/motion_in_separate_par/main_4.vmd",
-    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3"
+    "audioPlayerFile": "https://carlutic.github.io/motions19/audio/9703af4b0ff84ce638c127ed3a996a59407cb389.mp3",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions18/"
+      },
+      {
+        "name": "SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_1.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s11_aoa_miniskirt_queendom_ver/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "IU - YOU_I by Nicsan",
@@ -2284,7 +2350,21 @@
     "modelMotionFile": "queencard/Queencard.vmd",
     "camMotionFile": "queencard/SMOOTH Camera.vmd",
     "audioPlayerFile": "queencard/audio.mp3",
-    "group": "Kpop"
+    "group": "Kpop",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions18/queencard/SMOOTH Camera.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s10_51_g_i_dle_queencard/cam_1.vmd"
+      },
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s10_51_g_i_dle_queencard/cam_2.vmd"
+      }
+    ]
   },
   {
     "name": "(G)I-DLE - Queencard (完整版)",
@@ -2298,6 +2378,20 @@
     "group": "Kpop",
     "modelMotionFile": "queencard/Queencard.vmd",
     "camMotionFile": "queencard/SMOOTH Camera.vmd",
-    "audioPlayerFile": "queencard/audio.mp3"
+    "audioPlayerFile": "queencard/audio.mp3",
+    "cameraMotions": [
+      {
+        "name": "当前镜头",
+        "file": "https://carlutic.github.io/motions18/queencard/SMOOTH Camera.vmd"
+      },
+      {
+        "name": "NOT SMOOTH",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s10_51_g_i_dle_queencard/cam_1.vmd"
+      },
+      {
+        "name": "Fixed",
+        "file": "https://carlutic.github.io/motions45/natsumisan/s10_51_g_i_dle_queencard/cam_2.vmd"
+      }
+    ]
   }
 ]
